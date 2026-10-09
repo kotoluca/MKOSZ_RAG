@@ -171,12 +171,12 @@ def save_csv(matches: list[dict], stats: list[pd.DataFrame], szezon: str, kod: s
     """Egy szezon egy bajnokságának mentése két külön CSV-be, a szezon- és bajnokságkóddal a fájlnévben."""
     DATA_DIR.mkdir(exist_ok=True)
     matches_path = DATA_DIR / f"matches_{szezon}_{kod}.csv"
-    pd.DataFrame(matches).to_csv(matches_path, index=False)
+    pd.DataFrame(matches).to_csv(matches_path, index=False, encoding="utf-8-sig")
     print(f"  -> {matches_path.name}: {len(matches)} meccs")
     if stats:
         stats_path = DATA_DIR / f"player_stats_{szezon}_{kod}.csv"
         player_stats = pd.concat(stats, ignore_index=True)
-        player_stats.to_csv(stats_path, index=False)
+        player_stats.to_csv(stats_path, index=False, encoding="utf-8-sig")
         print(f"  -> {stats_path.name}: {len(player_stats)} játékossor")
     else:
         print("  ! Nem találtam statisztika-táblázatot. Futtasd --save-html kapcsolóval, és nézd meg a data/html mappát.")
@@ -192,7 +192,7 @@ def scrape_league(session, szezon: str, kod: str, args, html_dir: Path) -> None:
     for m in matches:
         m["szezon"] = szezon
         m["bajnoksag"] = nev
-    print(f"{szezon} {nev}: {len(matches)} lejátszott meccs a műsorban")
+    print(f"{szezon} {nev}: {len(matches)} meccs a műsorban")
     if args.limit:
         matches = matches[:args.limit]
 
