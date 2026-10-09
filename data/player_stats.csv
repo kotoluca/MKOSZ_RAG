@@ -1,0 +1,351 @@
+meccs_id,csapat,ellenfel,jatekos,kezdo,pont,kozeli_sikeres,kozeli_kiserlet,kozeli_szazalek,kozeptav_sikeres,kozeptav_kiserlet,kozeptav_szazalek,tavoli_sikeres,tavoli_kiserlet,tavoli_szazalek,mezony_sikeres,mezony_kiserlet,mezony_szazalek,bunteto_sikeres,bunteto_kiserlet,bunteto_szazalek,lepattano_vedo,lepattano_tamado,lepattano_osszes,labdaszerzes,labdaeladas,fault_elkovetett,fault_kiharcolt,golpassz,blokk_adott,blokk_kapott,valorizacio,perc,plusz_minusz
+134753,Alba Fehérvár,Egis Körmend,Pongó Marcell,X,9,2,5,40,0,0,0,1,5,20,3,10,30,2,4,50,5,2,7,0,2,3,2,6,0,0,13,29,0.0
+134753,Alba Fehérvár,Egis Körmend,Scott Joshua Micah Aaron,X,15,3,4,75,0,0,0,1,1,100,4,5,80,6,6,100,4,1,5,1,3,3,4,5,1,0,27,25,0.0
+134753,Alba Fehérvár,Egis Körmend,Subotic Bojan,X,17,5,5,100,0,0,0,1,6,17,6,11,55,4,4,100,5,3,8,1,1,4,3,2,0,0,25,24,0.0
+134753,Alba Fehérvár,Egis Körmend,Major Bulcsú,X,8,2,5,40,0,0,0,1,5,20,3,10,30,1,1,100,2,0,2,0,0,1,2,3,0,1,8,23,0.0
+134753,Alba Fehérvár,Egis Körmend,Vujic Mladen,X,13,6,9,67,0,0,0,0,0,0,6,9,67,1,1,100,2,4,6,0,2,4,3,0,0,1,17,19,0.0
+134753,Alba Fehérvár,Egis Körmend,Vojvoda Dávid,,20,5,8,63,0,0,0,1,5,20,6,13,46,7,8,88,0,0,0,0,2,2,6,0,0,0,16,24,0.0
+134753,Alba Fehérvár,Egis Körmend,Meleg Gergő Zoárd,,7,2,6,33,0,0,0,0,0,0,2,6,33,3,4,75,4,4,8,0,1,1,3,0,0,0,12,21,0.0
+134753,Alba Fehérvár,Egis Körmend,Takács Martin,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,50,0,0,0,0,0,3,1,0,0,0,1,17,0.0
+134753,Alba Fehérvár,Egis Körmend,Filipovic Stefan,,6,2,3,67,1,1,100,0,0,0,3,4,75,0,0,0,3,3,6,0,1,2,1,1,0,0,12,16,0.0
+134753,Alba Fehérvár,Egis Körmend,Párkányi Máté,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0
+134753,Alba Fehérvár,Egis Körmend,Gyurákovics Ákos,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134753,Alba Fehérvár,Egis Körmend,Szabó Lehel,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134753,Egis Körmend,Alba Fehérvár,Iroegbu Uchenna Onyekachi,X,16,3,5,60,0,1,0,3,7,43,6,13,46,1,2,50,1,1,2,2,1,3,4,4,0,1,19,31,0.0
+134753,Egis Körmend,Alba Fehérvár,Warrick Marques Tahir,X,10,1,4,25,0,0,0,1,3,33,2,7,29,5,5,100,0,2,2,0,2,1,4,3,0,0,12,30,0.0
+134753,Egis Körmend,Alba Fehérvár,Durázi Krisztofer,X,12,2,3,67,0,0,0,2,5,40,4,8,50,2,4,50,2,0,2,0,0,3,3,2,0,0,13,26,0.0
+134753,Egis Körmend,Alba Fehérvár,Cork Xavier Vontrel,X,14,4,7,57,1,1,100,0,0,0,5,8,63,4,4,100,2,0,2,1,2,3,2,2,1,0,17,25,0.0
+134753,Egis Körmend,Alba Fehérvár,Cohill Eric Edward,X,2,1,2,50,0,0,0,0,2,0,1,4,25,0,0,0,0,1,1,0,0,1,0,0,0,0,0,10,0.0
+134753,Egis Körmend,Alba Fehérvár,Takács Kristóf,,10,1,1,100,0,0,0,2,6,33,3,7,43,2,3,67,4,1,5,0,2,2,4,2,0,0,14,26,0.0
+134753,Egis Körmend,Alba Fehérvár,Csuti Kornél,,4,2,2,100,0,0,0,0,3,0,2,5,40,0,0,0,0,2,2,1,1,4,0,2,1,0,6,17,0.0
+134753,Egis Körmend,Alba Fehérvár,Kiss Mátyás,,0,0,1,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,1,0,4,2,1,0,0,2,12,0.0
+134753,Egis Körmend,Alba Fehérvár,Ivosev Tamás,,7,1,2,50,0,1,0,0,0,0,1,3,33,5,6,83,3,0,3,1,1,3,3,0,0,0,10,12,0.0
+134753,Egis Körmend,Alba Fehérvár,Bartik Zalán,,2,0,0,0,0,0,0,0,1,0,0,1,0,2,2,100,1,0,1,0,0,1,1,0,0,0,3,11,0.0
+134753,Egis Körmend,Alba Fehérvár,Nagy Péter,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134753,Egis Körmend,Alba Fehérvár,Farkas Levente,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134745,NHSZ-Szolnoki Olajbányász,OSE Lions,Krnjajski Boris,X,8,1,1,100,0,1,0,1,5,20,2,7,29,3,5,60,5,0,5,0,3,2,4,6,0,0,13,27,0.0
+134745,NHSZ-Szolnoki Olajbányász,OSE Lions,Bjerregard Madsen Thor Alexander,X,22,5,7,71,0,0,0,2,2,100,7,9,78,6,7,86,5,4,9,0,1,2,4,0,0,0,31,25,0.0
+134745,NHSZ-Szolnoki Olajbányász,OSE Lions,Mubaarak Brantley Khalil Umar,X,13,3,4,75,1,2,50,1,5,20,5,11,45,2,2,100,2,1,3,2,1,1,1,6,1,0,19,24,0.0
+134745,NHSZ-Szolnoki Olajbányász,OSE Lions,Cseh Botond,X,15,6,7,86,0,0,0,1,4,25,7,11,64,0,2,0,4,2,6,1,1,1,1,2,0,0,18,24,0.0
+134745,NHSZ-Szolnoki Olajbányász,OSE Lions,Goodwin Chevez Branford,X,10,5,10,50,0,0,0,0,0,0,5,10,50,0,2,0,3,4,7,0,2,4,3,1,0,1,12,17,0.0
+134745,NHSZ-Szolnoki Olajbányász,OSE Lions,Barnes Auston Willis,,7,2,3,67,0,1,0,0,2,0,2,6,33,3,4,75,4,0,4,2,0,3,4,2,0,0,14,23,0.0
+134745,NHSZ-Szolnoki Olajbányász,OSE Lions,Pierre-Louis Joshua Andreas,,14,5,8,63,0,0,0,1,2,50,6,10,60,1,2,50,1,3,4,2,5,2,3,4,0,0,17,20,0.0
+134745,NHSZ-Szolnoki Olajbányász,OSE Lions,Pallai Tamás Ottó,,9,0,1,0,0,1,0,2,4,50,2,6,33,3,4,75,0,0,0,0,1,4,2,2,0,0,7,19,0.0
+134745,NHSZ-Szolnoki Olajbányász,OSE Lions,Molnár Márton,,6,1,1,100,1,2,50,0,0,0,2,3,67,2,2,100,2,0,2,0,0,1,1,1,0,0,9,12,0.0
+134745,NHSZ-Szolnoki Olajbányász,OSE Lions,Rudner Gábor,,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,1,1,2,1,0,2,0,1,0,0,2,9,0.0
+134745,NHSZ-Szolnoki Olajbányász,OSE Lions,Huszár Balázs,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134745,NHSZ-Szolnoki Olajbányász,OSE Lions,Dávid Tamás,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0
+134745,OSE Lions,NHSZ-Szolnoki Olajbányász,Harrison Rayshon Malik,X,13,4,8,50,1,1,100,0,2,0,5,11,45,3,6,50,3,0,3,1,5,3,3,4,0,1,10,36,0.0
+134745,OSE Lions,NHSZ-Szolnoki Olajbányász,Johnson Kedrian Vermond,X,19,3,7,43,1,3,33,2,4,50,6,14,43,5,6,83,2,2,4,1,2,2,7,0,0,0,20,34,0.0
+134745,OSE Lions,NHSZ-Szolnoki Olajbányász,Stojicic Dusan,X,25,4,6,67,0,0,0,3,3,100,7,9,78,8,8,100,5,0,5,2,1,3,4,2,1,0,36,29,0.0
+134745,OSE Lions,NHSZ-Szolnoki Olajbányász,Bogdán Benedek,X,3,0,1,0,0,0,0,1,2,50,1,3,33,0,0,0,3,0,3,1,1,1,0,2,0,0,6,19,0.0
+134745,OSE Lions,NHSZ-Szolnoki Olajbányász,Balsay Ádám,X,5,2,2,100,0,0,0,0,2,0,2,4,50,1,1,100,0,0,0,1,1,1,2,1,0,0,6,14,0.0
+134745,OSE Lions,NHSZ-Szolnoki Olajbányász,Csendes Péter,,10,0,0,0,1,2,50,2,8,25,3,10,30,2,2,100,2,0,2,1,3,4,2,6,0,0,11,29,0.0
+134745,OSE Lions,NHSZ-Szolnoki Olajbányász,Reece Joseph Emanuel,,9,3,4,75,1,1,100,0,1,0,4,6,67,1,2,50,6,0,6,2,2,4,3,2,0,0,17,17,0.0
+134745,OSE Lions,NHSZ-Szolnoki Olajbányász,Zsiros Péter,,5,1,2,50,0,0,0,1,1,100,2,3,67,0,0,0,1,0,1,0,0,2,0,1,0,0,6,15,0.0
+134745,OSE Lions,NHSZ-Szolnoki Olajbányász,Kupai László Levente,,4,0,0,0,0,0,0,0,1,0,0,1,0,4,4,100,3,0,3,1,0,2,2,1,0,0,10,7,0.0
+134745,OSE Lions,NHSZ-Szolnoki Olajbányász,Kristyák Viktor,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0
+134745,OSE Lions,NHSZ-Szolnoki Olajbányász,Arnold Botond,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134745,OSE Lions,NHSZ-Szolnoki Olajbányász,Debreczeny Dávid,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134755,Sopron KC,DEAC,Kucsera Dániel,X,12,2,5,40,0,0,0,1,3,33,3,8,38,5,6,83,3,1,4,1,2,2,4,2,2,1,17,34,0.0
+134755,Sopron KC,DEAC,Ford Iii Robert Edward,X,32,7,9,78,0,3,0,2,5,40,9,17,53,12,13,92,5,1,6,0,4,4,10,4,0,1,39,32,0.0
+134755,Sopron KC,DEAC,Meszlényi Róbert Vilmos,X,7,0,1,0,0,0,0,2,5,40,2,6,33,1,2,50,6,1,7,1,1,5,1,2,0,0,12,32,0.0
+134755,Sopron KC,DEAC,Ragland Thomas Bryant Donell,X,14,4,5,80,0,1,0,1,1,100,5,7,71,3,8,38,3,1,4,0,1,4,5,1,1,0,17,23,0.0
+134755,Sopron KC,DEAC,Hajdu Péter Márton,X,3,0,1,0,0,0,0,1,5,20,1,6,17,0,0,0,1,1,2,2,0,3,0,0,0,0,2,20,0.0
+134755,Sopron KC,DEAC,Ruják András Baldvin,,0,0,3,0,0,0,0,0,1,0,0,4,0,0,0,0,4,2,6,2,2,3,0,1,0,1,3,25,0.0
+134755,Sopron KC,DEAC,Wertz Iii Langston Boyer Walter,,25,3,5,60,1,1,100,3,6,50,7,12,58,8,8,100,2,0,2,0,2,2,6,3,0,0,29,21,0.0
+134755,Sopron KC,DEAC,Kelenföldi Domonkos,,7,1,2,50,2,2,100,0,0,0,3,4,75,1,2,50,2,1,3,0,0,2,3,0,0,1,11,12,0.0
+134755,Sopron KC,DEAC,Keller Bendegúz,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0
+134755,Sopron KC,DEAC,Kovács Áron,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134755,Sopron KC,DEAC,Proleta Domagoj,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134755,Sopron KC,DEAC,Bősze Gergő,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134755,DEAC,Sopron KC,Mócsán Bálint,X,14,2,3,67,0,1,0,2,6,33,4,10,40,4,5,80,4,0,4,0,0,3,4,3,0,1,18,29,0.0
+134755,DEAC,Sopron KC,Simmons Zachary Cleveland,X,12,4,7,57,0,0,0,0,1,0,4,8,50,4,6,67,4,3,7,0,1,4,4,1,0,1,17,28,0.0
+134755,DEAC,Sopron KC,Underwood Dimitrius Paul,X,19,5,7,71,0,1,0,1,3,33,6,11,55,6,8,75,4,1,5,2,3,3,6,3,0,0,25,27,0.0
+134755,DEAC,Sopron KC,Duffy Jorden Randell,X,11,4,4,100,0,0,0,1,6,17,5,10,50,0,0,0,3,1,4,4,4,3,2,3,1,0,16,26,0.0
+134755,DEAC,Sopron KC,Kovács Ákos Bence,X,3,1,4,25,0,1,0,0,2,0,1,7,14,1,2,50,2,2,4,1,0,3,1,2,1,1,5,15,0.0
+134755,DEAC,Sopron KC,Horvath Brandon Matthew,,12,3,4,75,0,0,0,1,4,25,4,8,50,3,6,50,6,1,7,0,2,2,3,1,1,0,15,25,0.0
+134755,DEAC,Sopron KC,Varga Ferenc,,3,1,2,50,0,0,0,0,2,0,1,4,25,1,3,33,0,0,0,0,2,2,2,0,0,0,-2,15,0.0
+134755,DEAC,Sopron KC,Hőgye Patrik,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,1,0,2,0,1,1,0,3,15,0.0
+134755,DEAC,Sopron KC,Flasár Botond,,8,3,4,75,0,0,0,0,0,0,3,4,75,2,2,100,2,1,3,0,1,4,2,2,0,0,13,12,0.0
+134755,DEAC,Sopron KC,Gál Csongor,,0,0,1,0,0,0,0,0,1,0,0,2,0,0,0,0,2,0,2,0,0,3,1,1,0,0,2,8,0.0
+134755,DEAC,Sopron KC,Szász-Veres Márk,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134755,DEAC,Sopron KC,Bankó Zoltán Martin,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134747,Kometa-KVGY Kaposvári KK,Délút-SZTE-Szedeák,Bullock Quandre Marquise,X,14,6,11,55,0,2,0,0,3,0,6,16,38,2,2,100,3,1,4,1,1,2,3,3,0,0,14,30,0.0
+134747,Kometa-KVGY Kaposvári KK,Délút-SZTE-Szedeák,Paár Márk,X,15,4,6,67,0,1,0,2,5,40,6,12,50,1,1,100,2,2,4,3,0,3,2,0,1,0,19,29,0.0
+134747,Kometa-KVGY Kaposvári KK,Délút-SZTE-Szedeák,Tarján Izsák Simon,X,3,0,1,0,0,0,0,1,2,50,1,3,33,0,0,0,1,5,6,2,0,2,0,3,0,0,12,21,0.0
+134747,Kometa-KVGY Kaposvári KK,Délút-SZTE-Szedeák,Walker Anthony Edward,X,16,5,7,71,0,0,0,1,4,25,6,11,55,3,3,100,4,0,4,1,4,5,3,2,0,0,17,19,0.0
+134747,Kometa-KVGY Kaposvári KK,Délút-SZTE-Szedeák,Puska Bence,X,0,0,0,0,0,1,0,0,2,0,0,3,0,0,0,0,1,0,1,3,1,2,1,1,0,0,2,18,0.0
+134747,Kometa-KVGY Kaposvári KK,Délút-SZTE-Szedeák,Woolridge Ryan Nicholas,,21,4,8,50,1,1,100,3,6,50,8,15,53,2,4,50,3,2,5,4,1,0,3,7,0,0,30,30,0.0
+134747,Kometa-KVGY Kaposvári KK,Délút-SZTE-Szedeák,Filipovity Markó,,20,1,5,20,1,2,50,4,7,57,6,14,43,4,4,100,1,2,3,0,1,1,5,1,0,0,20,23,0.0
+134747,Kometa-KVGY Kaposvári KK,Délút-SZTE-Szedeák,Buzás Bence,,2,1,2,50,0,0,0,0,2,0,1,4,25,0,0,0,3,1,4,0,0,1,1,2,0,0,6,18,0.0
+134747,Kometa-KVGY Kaposvári KK,Délút-SZTE-Szedeák,Maring Bonke Robert,,8,2,5,40,0,0,0,1,1,100,3,6,50,1,1,100,2,2,4,2,1,3,3,2,1,0,16,12,0.0
+134747,Kometa-KVGY Kaposvári KK,Délút-SZTE-Szedeák,Bakai Barnabás,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134747,Kometa-KVGY Kaposvári KK,Délút-SZTE-Szedeák,Nagy Barnabás,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134747,Délút-SZTE-Szedeák,Kometa-KVGY Kaposvári KK,Drenovac Dorde,X,22,5,6,83,1,5,20,2,4,50,8,15,53,4,4,100,2,1,3,1,4,2,3,1,0,0,19,35,0.0
+134747,Délút-SZTE-Szedeák,Kometa-KVGY Kaposvári KK,Glisic Milos,X,11,4,7,57,0,0,0,0,1,0,4,8,50,3,4,75,7,2,9,2,1,3,6,1,0,0,23,34,0.0
+134747,Délút-SZTE-Szedeák,Kometa-KVGY Kaposvári KK,Nagy Simon,X,13,2,2,100,0,0,0,3,7,43,5,9,56,0,0,0,2,1,3,0,2,3,0,1,0,0,11,28,0.0
+134747,Délút-SZTE-Szedeák,Kometa-KVGY Kaposvári KK,Kerpel-Fronius Gáspár,X,6,2,2,100,0,0,0,0,0,0,2,2,100,2,3,67,3,1,4,0,2,1,2,4,0,0,13,28,0.0
+134747,Délút-SZTE-Szedeák,Kometa-KVGY Kaposvári KK,Turner Garfield Garit,X,16,8,12,67,0,0,0,0,0,0,8,12,67,0,2,0,2,5,7,0,3,3,3,3,0,0,20,27,0.0
+134747,Délút-SZTE-Szedeák,Kometa-KVGY Kaposvári KK,Wright Ethan Devoe,,20,3,5,60,0,0,0,4,6,67,7,11,64,2,2,100,9,1,10,3,3,4,2,2,0,0,30,22,0.0
+134747,Délút-SZTE-Szedeák,Kometa-KVGY Kaposvári KK,Szentkuti Ákos,,5,2,4,50,0,1,0,0,0,0,2,5,40,1,4,25,0,1,1,1,1,2,2,4,0,0,6,11,0.0
+134747,Délút-SZTE-Szedeák,Kometa-KVGY Kaposvári KK,Halasy Örs,,5,2,6,33,0,0,0,0,0,0,2,6,33,1,2,50,3,0,3,0,2,2,1,2,0,2,4,11,0.0
+134747,Délút-SZTE-Szedeák,Kometa-KVGY Kaposvári KK,Antalics Dániel,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,0.0
+134747,Délút-SZTE-Szedeák,Kometa-KVGY Kaposvári KK,Papp Botond,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134747,Délút-SZTE-Szedeák,Kometa-KVGY Kaposvári KK,Vilmányi Márton Gergő,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134747,Délút-SZTE-Szedeák,Kometa-KVGY Kaposvári KK,Kiss-Leizer Gergő,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134743,Falco-Vulcano Energia KC Szombathely,PHOENIX Fóti Tigrisek ,Patton Joshua Kyle,X,8,2,4,50,0,2,0,0,0,0,2,6,33,4,4,100,4,4,8,3,1,3,3,1,1,0,19,23,0.0
+134743,Falco-Vulcano Energia KC Szombathely,PHOENIX Fóti Tigrisek ,Gray Juwan Devante,X,9,2,3,67,1,1,100,0,3,0,3,7,43,3,6,50,1,2,3,1,1,3,3,1,0,0,9,22,0.0
+134743,Falco-Vulcano Energia KC Szombathely,PHOENIX Fóti Tigrisek ,Váradi Benedek,X,14,4,6,67,0,1,0,2,6,33,6,13,46,0,1,0,4,1,5,2,3,3,2,3,0,1,15,22,0.0
+134743,Falco-Vulcano Energia KC Szombathely,PHOENIX Fóti Tigrisek ,Whelan Patrick Mark,X,8,1,2,50,0,0,0,1,2,50,2,4,50,3,3,100,2,0,2,0,1,0,1,1,0,1,9,19,0.0
+134743,Falco-Vulcano Energia KC Szombathely,PHOENIX Fóti Tigrisek ,Tanoh Dez András,X,11,2,4,50,0,0,0,2,4,50,4,8,50,1,2,50,2,1,3,2,4,0,1,3,0,0,11,15,0.0
+134743,Falco-Vulcano Energia KC Szombathely,PHOENIX Fóti Tigrisek ,Perl Zoltán,,25,4,6,67,1,2,50,3,5,60,8,13,62,6,6,100,6,1,7,2,2,3,5,7,0,0,39,25,0.0
+134743,Falco-Vulcano Energia KC Szombathely,PHOENIX Fóti Tigrisek ,Rosic Uros,,6,0,0,0,0,0,0,2,4,50,2,4,50,0,0,0,1,1,2,2,0,2,0,1,0,0,9,21,0.0
+134743,Falco-Vulcano Energia KC Szombathely,PHOENIX Fóti Tigrisek ,Keller Ákos,,2,0,1,0,0,0,0,0,0,0,0,1,0,2,2,100,2,1,3,0,1,1,1,1,0,0,5,18,0.0
+134743,Falco-Vulcano Energia KC Szombathely,PHOENIX Fóti Tigrisek ,Trammell Darrion Lee,,2,1,3,33,0,0,0,0,4,0,1,7,14,0,0,0,0,0,0,2,0,2,2,1,0,0,1,18,0.0
+134743,Falco-Vulcano Energia KC Szombathely,PHOENIX Fóti Tigrisek ,Bognár Kristóf,,9,2,2,100,0,1,0,1,3,33,3,6,50,2,2,100,4,1,5,0,1,2,1,0,0,1,11,15,0.0
+134743,Falco-Vulcano Energia KC Szombathely,PHOENIX Fóti Tigrisek ,Herger Salamon,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,2,2,0.0
+134743,Falco-Vulcano Energia KC Szombathely,PHOENIX Fóti Tigrisek ,Verasztó Péter,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134743,PHOENIX Fóti Tigrisek ,Falco-Vulcano Energia KC Szombathely,Kinney Jr. James Edwin,X,9,2,4,50,1,1,100,1,6,17,4,11,36,0,0,0,3,0,3,0,6,3,1,4,0,0,4,31,0.0
+134743,PHOENIX Fóti Tigrisek ,Falco-Vulcano Energia KC Szombathely,Dancsecs András,X,12,0,1,0,0,0,0,3,5,60,3,6,50,3,3,100,2,0,2,0,5,3,5,2,0,0,13,28,0.0
+134743,PHOENIX Fóti Tigrisek ,Falco-Vulcano Energia KC Szombathely,Juhos Levente,X,17,6,8,75,1,3,33,0,1,0,7,12,58,3,4,75,5,2,7,3,4,1,3,0,0,0,20,27,0.0
+134743,PHOENIX Fóti Tigrisek ,Falco-Vulcano Energia KC Szombathely,Ellis Devon Anthony,X,11,5,8,63,0,0,0,0,1,0,5,9,56,1,3,33,2,1,3,0,0,1,2,0,0,0,10,24,0.0
+134743,PHOENIX Fóti Tigrisek ,Falco-Vulcano Energia KC Szombathely,Kazy Balázs,X,2,0,1,0,0,0,0,0,1,0,0,2,0,2,2,100,0,0,0,1,1,3,1,0,1,0,2,22,0.0
+134743,PHOENIX Fóti Tigrisek ,Falco-Vulcano Energia KC Szombathely,Mitchell Shereef Rashadd,,8,3,8,38,0,1,0,0,2,0,3,11,27,2,2,100,2,1,3,1,1,4,3,3,0,1,9,27,0.0
+134743,PHOENIX Fóti Tigrisek ,Falco-Vulcano Energia KC Szombathely,Armaghani Ármin,,8,1,3,33,0,0,0,1,3,33,2,6,33,3,4,75,3,2,5,0,0,0,3,1,0,0,12,24,0.0
+134743,PHOENIX Fóti Tigrisek ,Falco-Vulcano Energia KC Szombathely,Coulibaly Boubacar,,6,3,4,75,0,0,0,0,0,0,3,4,75,0,0,0,5,2,7,2,2,4,0,0,2,0,14,13,0.0
+134743,PHOENIX Fóti Tigrisek ,Falco-Vulcano Energia KC Szombathely,Emelieze Ágoston Kenenna,,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,100,1,0,1,0,0,0,1,0,0,0,4,4,0.0
+134743,PHOENIX Fóti Tigrisek ,Falco-Vulcano Energia KC Szombathely,Karda Dominik Krisztián,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134743,PHOENIX Fóti Tigrisek ,Falco-Vulcano Energia KC Szombathely,Kékesi Kristóf,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134743,PHOENIX Fóti Tigrisek ,Falco-Vulcano Energia KC Szombathely,Boinitzer Dávid,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134749,Atomerőmű SE,NKA Universitas Pécs,Young Kalif Karl,X,15,6,9,67,0,2,0,0,0,0,6,11,55,3,3,100,0,4,4,0,0,2,3,1,0,2,18,26,0.0
+134749,Atomerőmű SE,NKA Universitas Pécs,Chandler Iii. John Watson,X,17,4,7,57,0,1,0,2,6,33,6,14,43,3,3,100,4,1,5,3,4,2,4,2,0,0,19,25,0.0
+134749,Atomerőmű SE,NKA Universitas Pécs,Benke Szilárd,X,16,6,7,86,0,0,0,1,2,50,7,9,78,1,1,100,3,3,6,1,0,1,2,7,1,0,31,25,0.0
+134749,Atomerőmű SE,NKA Universitas Pécs,Joseph Yasiin Yousef,X,8,1,4,25,1,1,100,1,1,100,3,6,50,1,2,50,1,2,3,1,0,2,3,7,0,0,18,22,0.0
+134749,Atomerőmű SE,NKA Universitas Pécs,Révész Ádám,X,6,3,4,75,0,0,0,0,2,0,3,6,50,0,1,0,1,0,1,0,1,2,2,0,0,0,4,20,0.0
+134749,Atomerőmű SE,NKA Universitas Pécs,Daniels Ii Clarence Oliver,,20,2,2,100,0,0,0,4,7,57,6,9,67,4,4,100,4,0,4,2,0,0,3,0,0,0,26,21,0.0
+134749,Atomerőmű SE,NKA Universitas Pécs,Halmai Dániel,,8,1,2,50,0,0,0,2,5,40,3,7,43,0,0,0,0,1,1,4,0,4,1,5,0,0,15,19,0.0
+134749,Atomerőmű SE,NKA Universitas Pécs,Géringer Gergő,,3,1,3,33,0,0,0,0,3,0,1,6,17,1,2,50,2,0,2,2,0,4,1,0,0,0,2,18,0.0
+134749,Atomerőmű SE,NKA Universitas Pécs,Krivacevic Markó,,7,3,7,43,0,0,0,0,0,0,3,7,43,1,2,50,4,2,6,0,1,3,1,1,0,1,9,14,0.0
+134749,Atomerőmű SE,NKA Universitas Pécs,Nagy Dániel,,2,1,1,100,0,0,0,0,0,0,1,1,100,0,0,0,0,0,0,0,1,3,0,0,0,0,1,7,0.0
+134749,Atomerőmű SE,NKA Universitas Pécs,Merkl Barna Márton,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0.0
+134749,NKA Universitas Pécs,Atomerőmű SE,Punter Kieffer Alexander,X,20,2,3,67,3,4,75,2,4,50,7,11,64,4,5,80,3,0,3,0,2,3,6,7,0,1,29,30,0.0
+134749,NKA Universitas Pécs,Atomerőmű SE,Moors James William,X,16,5,6,83,0,0,0,1,1,100,6,7,86,3,4,75,7,2,9,1,3,1,3,0,0,0,24,26,0.0
+134749,NKA Universitas Pécs,Atomerőmű SE,Rátgéber Tamás,X,2,0,1,0,0,0,0,0,2,0,0,3,0,2,2,100,0,2,2,0,3,2,1,0,0,0,-1,22,0.0
+134749,NKA Universitas Pécs,Atomerőmű SE,Buglyó Barna Gergő,X,7,2,3,67,0,0,0,1,2,50,3,5,60,0,0,0,1,1,2,0,1,1,1,1,0,0,8,22,0.0
+134749,NKA Universitas Pécs,Atomerőmű SE,Lawrence Jamarques Jahiem,X,4,0,2,0,2,2,100,0,3,0,2,7,29,0,0,0,2,0,2,0,1,4,3,2,0,0,5,11,0.0
+134749,NKA Universitas Pécs,Atomerőmű SE,Bor Gábor,,7,0,2,0,0,0,0,2,3,67,2,5,40,1,2,50,2,0,2,0,3,1,2,1,0,0,5,22,0.0
+134749,NKA Universitas Pécs,Atomerőmű SE,Brbaklic Aleksa,,2,1,1,100,0,1,0,0,2,0,1,4,25,0,0,0,1,0,1,2,2,0,1,0,0,0,1,19,0.0
+134749,NKA Universitas Pécs,Atomerőmű SE,Franson Hayden Eric,,5,1,2,50,0,0,0,1,1,100,2,3,67,0,0,0,2,2,4,0,1,1,1,0,1,0,9,15,0.0
+134749,NKA Universitas Pécs,Atomerőmű SE,Lukácsi Gábor,,6,1,1,100,0,0,0,0,2,0,1,3,33,4,6,67,0,0,0,0,1,3,3,2,0,0,6,14,0.0
+134749,NKA Universitas Pécs,Atomerőmű SE,Komma László András,,8,2,3,67,0,0,0,0,0,0,2,3,67,4,4,100,0,0,0,0,1,4,2,0,2,0,10,14,0.0
+134749,NKA Universitas Pécs,Atomerőmű SE,Mezőfi Márk,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,5,0.0
+134749,NKA Universitas Pécs,Atomerőmű SE,Burony Bálint,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134751,Endo Plus Service-Honvéd,Duna Aszfalt-DTKH Kecskemét,Valerio-Bodon Vincent László,X,24,5,6,83,1,1,100,3,6,50,9,13,69,3,3,100,4,0,4,0,2,0,4,4,3,0,33,32,0.0
+134751,Endo Plus Service-Honvéd,Duna Aszfalt-DTKH Kecskemét,Moss Jr Jarvis Mitchell,X,18,6,6,100,0,0,0,1,12,8,7,18,39,3,3,100,2,0,2,3,2,3,4,4,0,0,18,32,0.0
+134751,Endo Plus Service-Honvéd,Duna Aszfalt-DTKH Kecskemét,Baker Kevin Jurell,X,5,1,6,17,0,1,0,1,4,25,2,11,18,0,0,0,9,2,11,0,0,3,1,0,2,2,10,29,0.0
+134751,Endo Plus Service-Honvéd,Duna Aszfalt-DTKH Kecskemét,Reizinger Máté,X,5,2,3,67,0,0,0,0,0,0,2,3,67,1,2,50,7,2,9,0,1,2,2,0,0,0,13,24,0.0
+134751,Endo Plus Service-Honvéd,Duna Aszfalt-DTKH Kecskemét,Radó Ádám,X,5,1,1,100,0,0,0,0,0,0,1,1,100,3,4,75,0,2,2,2,2,5,3,1,0,0,10,20,0.0
+134751,Endo Plus Service-Honvéd,Duna Aszfalt-DTKH Kecskemét,Keller Iván,,10,1,2,50,1,1,100,1,4,25,3,7,43,3,4,75,4,2,6,1,0,3,2,1,0,0,15,25,0.0
+134751,Endo Plus Service-Honvéd,Duna Aszfalt-DTKH Kecskemét,Simon Kristóf Gábor,,11,1,4,25,1,1,100,2,2,100,4,7,57,1,1,100,8,0,8,1,1,4,3,8,0,0,27,20,0.0
+134751,Endo Plus Service-Honvéd,Duna Aszfalt-DTKH Kecskemét,Dócs Benedek András,,5,1,1,100,0,1,0,1,1,100,2,3,67,0,0,0,1,0,1,1,1,3,0,0,0,0,5,11,0.0
+134751,Endo Plus Service-Honvéd,Duna Aszfalt-DTKH Kecskemét,Nagy Ágoston,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,3,0,0,0,0,-2,5,0.0
+134751,Endo Plus Service-Honvéd,Duna Aszfalt-DTKH Kecskemét,Papp Gergely,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0.0
+134751,Endo Plus Service-Honvéd,Duna Aszfalt-DTKH Kecskemét,Denk Norbert Zalán,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0.0
+134751,Duna Aszfalt-DTKH Kecskemét,Endo Plus Service-Honvéd,Doss Jr. Shaun Bernard,X,11,3,8,38,0,2,0,0,2,0,3,12,25,5,11,45,2,1,3,0,2,2,7,2,0,0,6,28,0.0
+134751,Duna Aszfalt-DTKH Kecskemét,Endo Plus Service-Honvéd,Jovicic Mihailo,X,7,2,7,29,0,2,0,0,0,0,2,9,22,3,3,100,2,1,3,0,1,2,4,0,0,0,6,26,0.0
+134751,Duna Aszfalt-DTKH Kecskemét,Endo Plus Service-Honvéd,Zivojinovic Petar,X,3,1,4,25,0,1,0,0,0,0,1,5,20,1,2,50,6,0,6,1,1,1,2,0,0,2,6,21,0.0
+134751,Duna Aszfalt-DTKH Kecskemét,Endo Plus Service-Honvéd,Karahodzic Kemal,X,5,2,3,67,0,0,0,0,1,0,2,4,50,1,4,25,5,2,7,1,0,4,2,1,0,0,11,18,0.0
+134751,Duna Aszfalt-DTKH Kecskemét,Endo Plus Service-Honvéd,Asztalos Miklós,X,3,0,0,0,0,1,0,1,2,50,1,3,33,0,0,0,1,1,2,0,0,2,0,0,0,0,3,16,0.0
+134751,Duna Aszfalt-DTKH Kecskemét,Endo Plus Service-Honvéd,Djurisic Pavle,,14,1,3,33,0,1,0,2,5,40,3,9,33,6,9,67,4,1,5,1,1,1,5,1,2,1,18,25,0.0
+134751,Duna Aszfalt-DTKH Kecskemét,Endo Plus Service-Honvéd,Ivkovic Milán,,5,0,3,0,1,1,100,1,4,25,2,8,25,0,0,0,2,2,4,0,3,2,0,1,0,2,1,22,0.0
+134751,Duna Aszfalt-DTKH Kecskemét,Endo Plus Service-Honvéd,Wittmann Krisztián,,10,0,0,0,1,2,50,1,3,33,2,5,40,5,6,83,0,0,0,1,1,1,4,1,0,0,11,19,0.0
+134751,Duna Aszfalt-DTKH Kecskemét,Endo Plus Service-Honvéd,Csátaljay Péter,,4,0,1,0,0,0,0,0,1,0,0,2,0,4,4,100,1,0,1,0,0,1,2,0,0,0,5,11,0.0
+134751,Duna Aszfalt-DTKH Kecskemét,Endo Plus Service-Honvéd,Szemerédi Levente Béla,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,1,3,0,0,0,0,2,10,0.0
+134751,Duna Aszfalt-DTKH Kecskemét,Endo Plus Service-Honvéd,Ladovszky János László,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,50,0,0,0,0,0,0,1,0,0,0,1,2,0.0
+134751,Duna Aszfalt-DTKH Kecskemét,Endo Plus Service-Honvéd,Kertli Ádám,,2,0,0,0,1,1,100,0,0,0,1,1,100,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0.0
+134825,NHSZ-Szolnoki Olajbányász,Kometa-KVGY Kaposvári KK,Mubaarak Brantley Khalil Umar,X,10,3,4,75,0,2,0,1,4,25,4,10,40,1,2,50,6,0,6,1,1,4,3,5,0,0,17,28,0.0
+134825,NHSZ-Szolnoki Olajbányász,Kometa-KVGY Kaposvári KK,Krnjajski Boris,X,17,2,4,50,0,0,0,3,6,50,5,10,50,4,5,80,1,2,3,0,0,1,3,4,0,1,21,27,0.0
+134825,NHSZ-Szolnoki Olajbányász,Kometa-KVGY Kaposvári KK,Barnes Auston Willis,X,8,1,5,20,0,0,0,2,5,40,3,10,30,0,0,0,1,1,2,0,1,3,2,3,0,0,7,24,0.0
+134825,NHSZ-Szolnoki Olajbányász,Kometa-KVGY Kaposvári KK,Goodwin Chevez Branford,X,11,5,10,50,0,0,0,0,0,0,5,10,50,1,3,33,2,4,6,1,4,1,3,0,2,1,12,23,0.0
+134825,NHSZ-Szolnoki Olajbányász,Kometa-KVGY Kaposvári KK,Cseh Botond,X,11,4,6,67,0,0,0,1,2,50,5,8,63,0,0,0,1,5,6,1,1,0,1,1,0,0,16,22,0.0
+134825,NHSZ-Szolnoki Olajbányász,Kometa-KVGY Kaposvári KK,Pierre-Louis Joshua Andreas,,17,6,10,60,0,0,0,1,5,20,7,15,47,2,2,100,5,2,7,5,2,2,2,7,0,0,28,29,0.0
+134825,NHSZ-Szolnoki Olajbányász,Kometa-KVGY Kaposvári KK,Pallai Tamás Ottó,,7,2,2,100,0,0,0,1,9,11,3,11,27,0,0,0,2,1,3,0,2,3,0,1,1,1,2,25,0.0
+134825,NHSZ-Szolnoki Olajbányász,Kometa-KVGY Kaposvári KK,Molnár Márton,,7,3,5,60,0,0,0,0,0,0,3,5,60,1,3,33,1,3,4,0,1,2,2,0,0,0,8,16,0.0
+134825,NHSZ-Szolnoki Olajbányász,Kometa-KVGY Kaposvári KK,Rudner Gábor,,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,100,2,0,2,0,1,0,1,0,0,0,4,6,0.0
+134825,NHSZ-Szolnoki Olajbányász,Kometa-KVGY Kaposvári KK,Dávid Tamás,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134825,NHSZ-Szolnoki Olajbányász,Kometa-KVGY Kaposvári KK,Huszár Balázs,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134825,Kometa-KVGY Kaposvári KK,NHSZ-Szolnoki Olajbányász,Woolridge Ryan Nicholas,X,11,5,9,56,0,0,0,0,2,0,5,11,45,1,2,50,5,1,6,0,3,0,2,10,0,2,19,35,0.0
+134825,Kometa-KVGY Kaposvári KK,NHSZ-Szolnoki Olajbányász,Bullock Quandre Marquise,X,20,4,8,50,1,1,100,1,3,33,6,12,50,7,7,100,6,2,8,1,2,5,6,6,0,1,33,27,0.0
+134825,Kometa-KVGY Kaposvári KK,NHSZ-Szolnoki Olajbányász,Filipovity Markó,X,10,3,6,50,0,1,0,1,4,25,4,11,36,1,1,100,0,0,0,0,0,1,1,1,0,0,5,19,0.0
+134825,Kometa-KVGY Kaposvári KK,NHSZ-Szolnoki Olajbányász,Buzás Bence,X,2,0,2,0,1,1,100,0,1,0,1,4,25,0,0,0,2,0,2,0,2,4,2,1,0,0,2,15,0.0
+134825,Kometa-KVGY Kaposvári KK,NHSZ-Szolnoki Olajbányász,Maring Bonke Robert,X,6,3,3,100,0,0,0,0,2,0,3,5,60,0,0,0,5,2,7,2,1,1,0,0,1,0,13,15,0.0
+134825,Kometa-KVGY Kaposvári KK,NHSZ-Szolnoki Olajbányász,Walker Anthony Edward,,11,3,4,75,0,0,0,1,3,33,4,7,57,2,2,100,2,1,3,0,6,2,3,2,1,0,11,26,0.0
+134825,Kometa-KVGY Kaposvári KK,NHSZ-Szolnoki Olajbányász,Paár Márk,,9,0,0,0,0,0,0,3,6,50,3,6,50,0,0,0,1,2,3,0,0,3,0,0,0,0,9,24,0.0
+134825,Kometa-KVGY Kaposvári KK,NHSZ-Szolnoki Olajbányász,Tarján Izsák Simon,,11,3,3,100,1,1,100,1,2,50,5,6,83,0,0,0,1,1,2,1,1,0,0,2,1,0,15,20,0.0
+134825,Kometa-KVGY Kaposvári KK,NHSZ-Szolnoki Olajbányász,Puska Bence,,11,4,4,100,0,3,0,1,1,100,5,8,63,0,0,0,0,0,0,2,0,3,1,1,0,0,12,19,0.0
+134825,Kometa-KVGY Kaposvári KK,NHSZ-Szolnoki Olajbányász,Nagy Barnabás,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134825,Kometa-KVGY Kaposvári KK,NHSZ-Szolnoki Olajbányász,Bakai Barnabás,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134769,Alba Fehérvár,Sopron KC,Pongó Marcell,X,29,3,4,75,0,0,0,7,12,58,10,16,63,2,3,67,4,0,4,3,1,1,4,4,0,0,36,31,0.0
+134769,Alba Fehérvár,Sopron KC,Vujic Mladen,X,13,5,8,63,0,0,0,0,0,0,5,8,63,3,4,75,5,9,14,0,2,2,6,5,0,2,32,29,0.0
+134769,Alba Fehérvár,Sopron KC,Subotic Bojan,X,27,7,12,58,0,0,0,3,5,60,10,17,59,4,4,100,5,2,7,0,3,2,2,2,1,1,29,28,0.0
+134769,Alba Fehérvár,Sopron KC,Scott Joshua Micah Aaron,X,6,1,7,14,1,1,100,0,3,0,2,11,18,2,2,100,3,1,4,3,1,3,3,6,0,1,12,28,0.0
+134769,Alba Fehérvár,Sopron KC,Major Bulcsú,X,6,1,2,50,0,0,0,1,3,33,2,5,40,1,2,50,0,0,0,0,0,3,1,1,0,0,4,25,0.0
+134769,Alba Fehérvár,Sopron KC,Takács Martin,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,3,1,0,0,1,1,21,0.0
+134769,Alba Fehérvár,Sopron KC,Meleg Gergő Zoárd,,11,3,4,75,0,0,0,1,3,33,4,7,57,2,2,100,0,0,0,1,1,2,1,0,1,0,10,16,0.0
+134769,Alba Fehérvár,Sopron KC,Vojvoda Dávid,,4,2,2,100,0,0,0,0,1,0,2,3,67,0,0,0,1,0,1,0,1,1,0,2,0,0,5,15,0.0
+134769,Alba Fehérvár,Sopron KC,Filipovic Stefan,,2,1,1,100,0,0,0,0,0,0,1,1,100,0,0,0,1,0,1,0,0,3,0,1,1,0,5,6,0.0
+134769,Alba Fehérvár,Sopron KC,Párkányi Máté,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0
+134769,Alba Fehérvár,Sopron KC,Gyurákovics Ákos,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134769,Alba Fehérvár,Sopron KC,Takács Zsolt,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134769,Sopron KC,Alba Fehérvár,Wertz Iii Langston Boyer Walter,X,23,3,3,100,0,0,0,5,8,63,8,11,73,2,2,100,1,0,1,0,1,1,2,2,0,0,24,32,0.0
+134769,Sopron KC,Alba Fehérvár,Kucsera Dániel,X,2,1,1,100,0,0,0,0,3,0,1,4,25,0,0,0,3,0,3,3,3,4,0,1,0,0,3,28,0.0
+134769,Sopron KC,Alba Fehérvár,Ford Iii Robert Edward,X,9,2,3,67,0,0,0,1,5,20,3,8,38,2,3,67,8,0,8,0,4,3,13,8,1,0,29,27,0.0
+134769,Sopron KC,Alba Fehérvár,Proleta Domagoj,X,11,3,7,43,0,0,0,1,3,33,4,10,40,2,2,100,2,0,2,0,2,2,1,1,0,0,7,26,0.0
+134769,Sopron KC,Alba Fehérvár,Meszlényi Róbert Vilmos,X,5,1,3,33,0,1,0,1,4,25,2,8,25,0,0,0,4,2,6,1,2,4,1,3,0,2,8,19,0.0
+134769,Sopron KC,Alba Fehérvár,Ragland Thomas Bryant Donell,,6,1,2,50,1,2,50,0,0,0,2,4,50,2,4,50,1,1,2,1,2,4,2,2,4,1,11,25,0.0
+134769,Sopron KC,Alba Fehérvár,Hajdu Péter Márton,,18,3,4,75,0,0,0,4,6,67,7,10,70,0,0,0,0,1,1,1,0,0,0,0,0,0,17,20,0.0
+134769,Sopron KC,Alba Fehérvár,Ruják András Baldvin,,8,0,0,0,0,0,0,2,2,100,2,2,100,2,2,100,0,0,0,0,0,0,1,4,0,0,13,19,0.0
+134769,Sopron KC,Alba Fehérvár,Keller Bendegúz,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,0.0
+134769,Sopron KC,Alba Fehérvár,Kovács Benedek Máté,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134769,Sopron KC,Alba Fehérvár,Kovács Áron,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134769,Sopron KC,Alba Fehérvár,Bősze Gergő,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134763,Duna Aszfalt-DTKH Kecskemét,Kometa-KVGY Kaposvári KK,Doss Jr. Shaun Bernard,X,19,7,9,78,0,5,0,0,6,0,7,20,35,5,6,83,2,0,2,2,2,2,4,4,1,3,16,32,0.0
+134763,Duna Aszfalt-DTKH Kecskemét,Kometa-KVGY Kaposvári KK,Jovicic Mihailo,X,8,2,2,100,0,1,0,1,1,100,3,4,75,1,2,50,3,0,3,0,2,1,3,6,0,0,16,26,0.0
+134763,Duna Aszfalt-DTKH Kecskemét,Kometa-KVGY Kaposvári KK,Asztalos Miklós,X,5,2,3,67,0,0,0,0,2,0,2,5,40,1,2,50,2,4,6,0,2,3,3,1,0,0,9,23,0.0
+134763,Duna Aszfalt-DTKH Kecskemét,Kometa-KVGY Kaposvári KK,Karahodzic Kemal,X,9,4,5,80,0,0,0,0,0,0,4,5,80,1,1,100,1,1,2,0,1,4,3,2,0,0,14,20,0.0
+134763,Duna Aszfalt-DTKH Kecskemét,Kometa-KVGY Kaposvári KK,Zivojinovic Petar,X,9,3,5,60,0,0,0,1,1,100,4,6,67,0,0,0,3,1,4,0,2,2,1,2,0,0,12,20,0.0
+134763,Duna Aszfalt-DTKH Kecskemét,Kometa-KVGY Kaposvári KK,Djurisic Pavle,,18,5,5,100,1,2,50,1,6,17,7,13,54,3,4,75,5,0,5,2,0,1,2,0,2,0,22,25,0.0
+134763,Duna Aszfalt-DTKH Kecskemét,Kometa-KVGY Kaposvári KK,Ivkovic Milán,,0,0,1,0,0,0,0,0,2,0,0,3,0,0,0,0,0,0,0,1,0,3,0,5,0,0,3,19,0.0
+134763,Duna Aszfalt-DTKH Kecskemét,Kometa-KVGY Kaposvári KK,Wittmann Krisztián,,3,0,1,0,0,2,0,1,4,25,1,7,14,0,0,0,2,1,3,0,1,0,2,4,0,0,5,19,0.0
+134763,Duna Aszfalt-DTKH Kecskemét,Kometa-KVGY Kaposvári KK,Csátaljay Péter,,4,0,0,0,0,1,0,1,1,100,1,2,50,1,2,50,0,0,0,0,2,1,1,1,0,0,2,9,0.0
+134763,Duna Aszfalt-DTKH Kecskemét,Kometa-KVGY Kaposvári KK,Szemerédi Levente Béla,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,0,0,-1,7,0.0
+134763,Duna Aszfalt-DTKH Kecskemét,Kometa-KVGY Kaposvári KK,Kertli Ádám,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134763,Duna Aszfalt-DTKH Kecskemét,Kometa-KVGY Kaposvári KK,Ladovszky János László,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134763,Kometa-KVGY Kaposvári KK,Duna Aszfalt-DTKH Kecskemét,Woolridge Ryan Nicholas,X,16,2,5,40,0,0,0,4,6,67,6,11,55,0,0,0,3,0,3,2,3,2,2,5,1,1,21,27,0.0
+134763,Kometa-KVGY Kaposvári KK,Duna Aszfalt-DTKH Kecskemét,Bullock Quandre Marquise,X,26,8,10,80,2,2,100,1,4,25,11,16,69,3,4,75,2,3,5,1,1,3,4,2,0,0,31,23,0.0
+134763,Kometa-KVGY Kaposvári KK,Duna Aszfalt-DTKH Kecskemét,Filipovity Markó,X,5,2,3,67,0,1,0,0,2,0,2,6,33,1,2,50,2,1,3,0,1,2,2,1,0,1,5,19,0.0
+134763,Kometa-KVGY Kaposvári KK,Duna Aszfalt-DTKH Kecskemét,Buzás Bence,X,4,1,1,100,1,2,50,0,4,0,2,7,29,0,0,0,2,0,2,1,2,2,0,3,0,1,3,18,0.0
+134763,Kometa-KVGY Kaposvári KK,Duna Aszfalt-DTKH Kecskemét,Maring Bonke Robert,X,6,3,4,75,0,0,0,0,1,0,3,5,60,0,0,0,4,2,6,1,0,1,0,1,1,0,13,17,0.0
+134763,Kometa-KVGY Kaposvári KK,Duna Aszfalt-DTKH Kecskemét,Paár Márk,,14,3,4,75,0,0,0,2,6,33,5,10,50,2,4,50,3,0,3,1,1,5,2,4,0,0,16,28,0.0
+134763,Kometa-KVGY Kaposvári KK,Duna Aszfalt-DTKH Kecskemét,Puska Bence,,7,1,1,100,1,1,100,1,1,100,3,3,100,0,0,0,0,0,0,0,0,1,1,1,0,0,9,23,0.0
+134763,Kometa-KVGY Kaposvári KK,Duna Aszfalt-DTKH Kecskemét,Walker Anthony Edward,,17,3,3,100,0,1,0,2,6,33,5,10,50,5,6,83,6,1,7,3,3,1,5,9,0,0,32,23,0.0
+134763,Kometa-KVGY Kaposvári KK,Duna Aszfalt-DTKH Kecskemét,Tarján Izsák Simon,,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,100,5,3,8,2,0,2,3,2,1,0,18,21,0.0
+134763,Kometa-KVGY Kaposvári KK,Duna Aszfalt-DTKH Kecskemét,Bakai Barnabás,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0
+134767,DEAC,Endo Plus Service-Honvéd,Duffy Jorden Randell,X,22,2,5,40,0,0,0,6,10,60,8,15,53,0,0,0,4,1,5,0,4,3,0,7,1,0,24,29,0.0
+134767,DEAC,Endo Plus Service-Honvéd,Mócsán Bálint,X,12,0,1,0,0,0,0,4,13,31,4,14,29,0,0,0,1,0,1,1,0,1,1,1,0,1,6,28,0.0
+134767,DEAC,Endo Plus Service-Honvéd,Simmons Zachary Cleveland,X,21,5,7,71,0,1,0,3,3,100,8,11,73,2,5,40,3,6,9,2,2,3,5,1,3,0,33,25,0.0
+134767,DEAC,Endo Plus Service-Honvéd,Underwood Dimitrius Paul,X,5,0,6,0,0,2,0,1,2,50,1,10,10,2,4,50,5,1,6,0,2,1,3,2,0,0,3,24,0.0
+134767,DEAC,Endo Plus Service-Honvéd,Kovács Ákos Bence,X,4,2,4,50,0,0,0,0,0,0,2,4,50,0,0,0,2,1,3,1,1,2,1,0,0,0,6,18,0.0
+134767,DEAC,Endo Plus Service-Honvéd,Horvath Brandon Matthew,,9,3,8,38,0,0,0,1,3,33,4,11,36,0,0,0,2,4,6,2,3,1,0,4,1,0,12,22,0.0
+134767,DEAC,Endo Plus Service-Honvéd,Hőgye Patrik,,10,4,5,80,0,0,0,0,3,0,4,8,50,2,3,67,3,1,4,3,0,4,1,4,0,0,17,19,0.0
+134767,DEAC,Endo Plus Service-Honvéd,Flasár Botond,,0,0,2,0,0,1,0,0,0,0,0,3,0,0,0,0,2,2,4,0,0,4,2,0,1,1,4,15,0.0
+134767,DEAC,Endo Plus Service-Honvéd,Varga Ferenc,,2,1,1,100,0,0,0,0,0,0,1,1,100,0,0,0,1,0,1,0,3,2,1,2,0,0,3,11,0.0
+134767,DEAC,Endo Plus Service-Honvéd,Gál Csongor,,3,0,1,0,0,0,0,1,2,50,1,3,33,0,2,0,2,2,4,0,2,1,1,0,1,0,3,9,0.0
+134767,DEAC,Endo Plus Service-Honvéd,Ságodi Róbert,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134767,DEAC,Endo Plus Service-Honvéd,Várszegi Ádám,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134767,Endo Plus Service-Honvéd,DEAC,Valerio-Bodon Vincent László,X,17,2,4,50,0,0,0,4,9,44,6,13,46,1,1,100,1,0,1,2,4,2,6,6,1,1,22,36,0.0
+134767,Endo Plus Service-Honvéd,DEAC,Moss Jr Jarvis Mitchell,X,23,6,14,43,0,1,0,2,9,22,8,24,33,5,5,100,5,0,5,2,2,1,3,3,0,5,18,35,0.0
+134767,Endo Plus Service-Honvéd,DEAC,Baker Kevin Jurell,X,14,3,5,60,0,0,0,1,5,20,4,10,40,5,6,83,3,1,4,1,0,2,3,2,0,0,17,33,0.0
+134767,Endo Plus Service-Honvéd,DEAC,Reizinger Máté,X,1,0,2,0,0,1,0,0,0,0,0,3,0,1,2,50,1,2,3,1,0,1,2,3,0,0,6,18,0.0
+134767,Endo Plus Service-Honvéd,DEAC,Koszti István Gergő,X,2,1,1,100,0,0,0,0,0,0,1,1,100,0,0,0,0,1,1,0,0,1,0,0,0,0,3,2,0.0
+134767,Endo Plus Service-Honvéd,DEAC,Keller Iván,,14,1,4,25,0,0,0,2,2,100,3,6,50,6,6,100,6,5,11,2,2,2,3,0,0,2,25,25,0.0
+134767,Endo Plus Service-Honvéd,DEAC,Simon Kristóf Gábor,,12,0,0,0,0,0,0,4,4,100,4,4,100,0,2,0,5,0,5,2,5,2,2,1,0,0,15,25,0.0
+134767,Endo Plus Service-Honvéd,DEAC,Radó Ádám,,8,3,3,100,0,0,0,0,0,0,3,3,100,2,2,100,1,0,1,1,0,3,2,2,1,0,15,20,0.0
+134767,Endo Plus Service-Honvéd,DEAC,Dócs Benedek András,,2,1,2,50,0,0,0,0,0,0,1,2,50,0,0,0,1,1,2,0,0,1,1,1,0,0,5,6,0.0
+134767,Endo Plus Service-Honvéd,DEAC,Denk Norbert Zalán,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134767,Endo Plus Service-Honvéd,DEAC,Papp Gergely,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134767,Endo Plus Service-Honvéd,DEAC,Nagy Ágoston,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134759,Délút-SZTE-Szedeák,PHOENIX Fóti Tigrisek ,Drenovac Dorde,X,19,7,7,100,0,2,0,1,3,33,8,12,67,2,6,33,6,2,8,2,3,1,6,2,0,0,26,38,0.0
+134759,Délút-SZTE-Szedeák,PHOENIX Fóti Tigrisek ,Glisic Milos,X,21,5,8,63,0,0,0,1,4,25,6,12,50,8,10,80,3,1,4,0,2,1,8,0,0,0,23,31,0.0
+134759,Délút-SZTE-Szedeák,PHOENIX Fóti Tigrisek ,Turner Garfield Garit,X,7,3,4,75,0,0,0,0,0,0,3,4,75,1,2,50,4,5,9,0,0,4,3,3,2,0,22,27,0.0
+134759,Délút-SZTE-Szedeák,PHOENIX Fóti Tigrisek ,Kerpel-Fronius Gáspár,X,2,1,3,33,0,0,0,0,0,0,1,3,33,0,0,0,1,0,1,1,3,3,2,8,0,0,9,26,0.0
+134759,Délút-SZTE-Szedeák,PHOENIX Fóti Tigrisek ,Nagy Simon,X,3,0,0,0,0,0,0,1,6,17,1,6,17,0,0,0,1,0,1,0,0,2,0,0,0,0,-1,17,0.0
+134759,Délút-SZTE-Szedeák,PHOENIX Fóti Tigrisek ,Wright Ethan Devoe,,12,3,7,43,0,0,0,2,5,40,5,12,42,0,0,0,3,2,5,2,3,2,1,1,0,0,11,24,0.0
+134759,Délút-SZTE-Szedeák,PHOENIX Fóti Tigrisek ,Halasy Örs,,7,3,4,75,0,0,0,0,1,0,3,5,60,1,2,50,0,1,1,0,0,1,1,1,0,0,7,15,0.0
+134759,Délút-SZTE-Szedeák,PHOENIX Fóti Tigrisek ,Szentkuti Ákos,,2,1,2,50,0,0,0,0,1,0,1,3,33,0,0,0,3,1,4,0,2,2,0,1,0,0,3,14,0.0
+134759,Délút-SZTE-Szedeák,PHOENIX Fóti Tigrisek ,Antalics Dániel,,4,0,0,0,0,0,0,1,2,50,1,2,50,1,2,50,0,0,0,0,0,1,1,0,0,0,3,8,0.0
+134759,Délút-SZTE-Szedeák,PHOENIX Fóti Tigrisek ,Kis Viktor,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134759,Délút-SZTE-Szedeák,PHOENIX Fóti Tigrisek ,Vilmányi Márton Gergő,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134759,Délút-SZTE-Szedeák,PHOENIX Fóti Tigrisek ,Kiss-Leizer Gergő,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134759,PHOENIX Fóti Tigrisek ,Délút-SZTE-Szedeák,Dancsecs András,X,9,1,3,33,0,2,0,2,9,22,3,14,21,1,1,100,1,0,1,0,1,4,3,1,0,0,2,36,0.0
+134759,PHOENIX Fóti Tigrisek ,Délút-SZTE-Szedeák,Mitchell Shereef Rashadd,X,27,7,9,78,0,3,0,2,5,40,9,17,53,7,8,88,4,2,6,4,1,5,7,1,0,0,35,35,0.0
+134759,PHOENIX Fóti Tigrisek ,Délút-SZTE-Szedeák,Kinney Jr. James Edwin,X,10,4,6,67,1,2,50,0,2,0,5,10,50,0,0,0,6,1,7,1,4,2,2,3,0,0,14,31,0.0
+134759,PHOENIX Fóti Tigrisek ,Délút-SZTE-Szedeák,Juhos Levente,X,4,2,3,67,0,1,0,0,1,0,2,5,40,0,0,0,5,2,7,1,1,2,1,3,0,0,12,30,0.0
+134759,PHOENIX Fóti Tigrisek ,Délút-SZTE-Szedeák,Armaghani Ármin,X,8,4,7,57,0,0,0,0,0,0,4,7,57,0,1,0,1,2,3,1,3,3,2,1,0,1,8,20,0.0
+134759,PHOENIX Fóti Tigrisek ,Délút-SZTE-Szedeák,Ellis Devon Anthony,,9,4,9,44,0,0,0,0,1,0,4,10,40,1,2,50,2,0,2,2,1,1,1,0,0,1,6,29,0.0
+134759,PHOENIX Fóti Tigrisek ,Délút-SZTE-Szedeák,Coulibaly Boubacar,,4,2,3,67,0,0,0,0,0,0,2,3,67,0,0,0,1,3,4,0,0,3,0,0,0,0,7,12,0.0
+134759,PHOENIX Fóti Tigrisek ,Délút-SZTE-Szedeák,Emelieze Ágoston Kenenna,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,2,0,0,0,0,0,7,0.0
+134759,PHOENIX Fóti Tigrisek ,Délút-SZTE-Szedeák,Karda Dominik Krisztián,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134759,PHOENIX Fóti Tigrisek ,Délút-SZTE-Szedeák,Kékesi Kristóf,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134759,PHOENIX Fóti Tigrisek ,Délút-SZTE-Szedeák,Boinitzer Dávid,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134759,PHOENIX Fóti Tigrisek ,Délút-SZTE-Szedeák,Forgács Gábor,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134765,Egis Körmend,Atomerőmű SE,Warrick Marques Tahir,X,28,2,2,100,0,2,0,7,11,64,9,15,60,3,3,100,4,0,4,2,0,1,7,1,0,0,36,34,0.0
+134765,Egis Körmend,Atomerőmű SE,Durázi Krisztofer,X,16,6,7,86,0,0,0,0,2,0,6,9,67,4,7,57,3,2,5,1,2,3,4,2,0,0,20,31,0.0
+134765,Egis Körmend,Atomerőmű SE,Iroegbu Uchenna Onyekachi,X,11,2,6,33,1,3,33,1,5,20,4,14,29,2,2,100,4,0,4,1,1,2,5,8,0,2,18,30,0.0
+134765,Egis Körmend,Atomerőmű SE,Cork Xavier Vontrel,X,4,2,2,100,0,0,0,0,0,0,2,2,100,0,0,0,2,0,2,0,1,2,0,0,0,0,5,17,0.0
+134765,Egis Körmend,Atomerőmű SE,Cohill Eric Edward,X,0,0,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,1,1,1,1,2,0,1,0,1,0,11,0.0
+134765,Egis Körmend,Atomerőmű SE,Takács Kristóf,,9,2,3,67,1,1,100,1,4,25,4,8,50,0,0,0,2,1,3,0,1,3,1,0,0,0,8,28,0.0
+134765,Egis Körmend,Atomerőmű SE,Ivosev Tamás,,11,2,2,100,0,0,0,0,2,0,2,4,50,7,7,100,2,0,2,1,4,4,6,2,1,0,17,19,0.0
+134765,Egis Körmend,Atomerőmű SE,Csuti Kornél,,5,1,1,100,0,0,0,1,2,50,2,3,67,0,2,0,3,0,3,0,1,1,1,0,0,0,5,13,0.0
+134765,Egis Körmend,Atomerőmű SE,Bartik Zalán,,0,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-2,11,0.0
+134765,Egis Körmend,Atomerőmű SE,Kiss Mátyás,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,-1,5,0.0
+134765,Egis Körmend,Atomerőmű SE,Turcsányi Nándor,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0
+134765,Egis Körmend,Atomerőmű SE,Dékány Boján Bendegúz,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134765,Atomerőmű SE,Egis Körmend,Benke Szilárd,X,27,5,7,71,0,3,0,4,9,44,9,19,47,5,6,83,1,3,4,2,1,3,5,3,0,0,29,31,0.0
+134765,Atomerőmű SE,Egis Körmend,Chandler Iii. John Watson,X,15,4,7,57,1,4,25,1,7,14,6,18,33,2,4,50,1,2,3,0,2,3,5,1,0,0,8,29,0.0
+134765,Atomerőmű SE,Egis Körmend,Révész Ádám,X,13,4,4,100,0,0,0,1,2,50,5,6,83,2,2,100,5,3,8,1,0,1,1,2,0,0,24,28,0.0
+134765,Atomerőmű SE,Egis Körmend,Young Kalif Karl,X,6,2,2,100,0,2,0,0,0,0,2,4,50,2,2,100,4,3,7,1,1,4,2,3,2,0,18,23,0.0
+134765,Atomerőmű SE,Egis Körmend,Joseph Yasiin Yousef,X,5,0,2,0,1,2,50,1,3,33,2,7,29,0,0,0,1,1,2,1,4,2,2,3,0,0,4,22,0.0
+134765,Atomerőmű SE,Egis Körmend,Daniels Ii Clarence Oliver,,14,3,5,60,2,3,67,1,3,33,6,11,55,1,2,50,7,0,7,0,0,2,2,0,1,1,18,20,0.0
+134765,Atomerőmű SE,Egis Körmend,Halmai Dániel,,3,0,0,0,0,1,0,1,1,100,1,2,50,0,0,0,0,1,1,1,2,4,2,4,0,0,8,18,0.0
+134765,Atomerőmű SE,Egis Körmend,Géringer Gergő,,6,1,2,50,0,0,0,1,3,33,2,5,40,1,2,50,2,2,4,2,0,2,1,1,0,0,10,16,0.0
+134765,Atomerőmű SE,Egis Körmend,Krivacevic Markó,,6,3,6,50,0,0,0,0,0,0,3,6,50,0,0,0,2,7,9,0,0,3,1,0,0,0,13,13,0.0
+134765,Atomerőmű SE,Egis Körmend,Merkl Barna Márton,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134765,Atomerőmű SE,Egis Körmend,Nagy Dániel,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134761,NKA Universitas Pécs,NHSZ-Szolnoki Olajbányász,Moors James William,X,14,4,6,67,0,0,0,0,1,0,4,7,57,6,13,46,3,5,8,4,1,2,9,4,0,0,28,33,0.0
+134761,NKA Universitas Pécs,NHSZ-Szolnoki Olajbányász,Punter Kieffer Alexander,X,7,1,2,50,0,0,0,1,3,33,2,5,40,2,2,100,4,0,4,1,2,2,2,2,0,0,11,32,0.0
+134761,NKA Universitas Pécs,NHSZ-Szolnoki Olajbányász,Brbaklic Aleksa,X,14,4,7,57,0,0,0,1,7,14,5,14,36,3,5,60,11,2,13,2,2,2,3,1,1,0,21,31,0.0
+134761,NKA Universitas Pécs,NHSZ-Szolnoki Olajbányász,Buglyó Barna Gergő,X,3,0,0,0,0,0,0,1,3,33,1,3,33,0,0,0,4,1,5,0,3,4,0,0,1,0,4,28,0.0
+134761,NKA Universitas Pécs,NHSZ-Szolnoki Olajbányász,Lawrence Jamarques Jahiem,X,7,3,3,100,0,0,0,0,2,0,3,5,60,1,3,33,0,0,0,0,1,3,3,0,0,0,5,10,0.0
+134761,NKA Universitas Pécs,NHSZ-Szolnoki Olajbányász,Bor Gábor,,14,2,7,29,0,0,0,1,3,33,3,10,30,7,8,88,1,2,3,0,1,0,5,1,0,0,14,20,0.0
+134761,NKA Universitas Pécs,NHSZ-Szolnoki Olajbányász,Komma László András,,2,1,1,100,0,0,0,0,0,0,1,1,100,0,0,0,0,0,0,0,1,4,0,0,1,0,2,13,0.0
+134761,NKA Universitas Pécs,NHSZ-Szolnoki Olajbányász,Lukácsi Gábor,,1,0,2,0,0,0,0,0,3,0,0,5,0,1,2,50,0,0,0,0,3,3,1,2,0,0,-5,13,0.0
+134761,NKA Universitas Pécs,NHSZ-Szolnoki Olajbányász,Rátgéber Tamás,,6,1,1,100,0,0,0,1,3,33,2,4,50,1,3,33,0,0,0,1,0,2,1,0,0,0,4,12,0.0
+134761,NKA Universitas Pécs,NHSZ-Szolnoki Olajbányász,Franson Hayden Eric,,0,0,1,0,0,0,0,0,2,0,0,3,0,0,0,0,1,0,1,0,0,0,0,0,0,0,-2,6,0.0
+134761,NKA Universitas Pécs,NHSZ-Szolnoki Olajbányász,Mezőfi Márk,,2,1,1,100,0,0,0,0,0,0,1,1,100,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0.0
+134761,NKA Universitas Pécs,NHSZ-Szolnoki Olajbányász,Burony Bálint,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134761,NHSZ-Szolnoki Olajbányász,NKA Universitas Pécs,Pierre-Louis Joshua Andreas,X,16,8,13,62,0,0,0,0,2,0,8,15,53,0,0,0,3,1,4,1,4,3,1,4,0,2,15,28,0.0
+134761,NHSZ-Szolnoki Olajbányász,NKA Universitas Pécs,Mubaarak Brantley Khalil Umar,X,4,2,8,25,0,0,0,0,1,0,2,9,22,0,0,0,2,0,2,1,2,4,2,3,0,0,3,22,0.0
+134761,NHSZ-Szolnoki Olajbányász,NKA Universitas Pécs,Cseh Botond,X,9,2,3,67,0,0,0,1,2,50,3,5,60,2,3,67,2,1,3,1,0,2,2,2,0,0,14,21,0.0
+134761,NHSZ-Szolnoki Olajbányász,NKA Universitas Pécs,Goodwin Chevez Branford,X,7,1,3,33,2,2,100,0,0,0,3,5,60,1,2,50,6,3,9,1,1,4,2,0,0,0,15,19,0.0
+134761,NHSZ-Szolnoki Olajbányász,NKA Universitas Pécs,Pallai Tamás Ottó,X,3,1,1,100,0,0,0,0,2,0,1,3,33,1,2,50,0,0,0,0,3,2,1,1,0,0,-1,14,0.0
+134761,NHSZ-Szolnoki Olajbányász,NKA Universitas Pécs,Barnes Auston Willis,,19,4,5,80,0,0,0,2,4,50,6,9,67,5,6,83,2,2,4,3,1,2,4,0,0,0,25,31,0.0
+134761,NHSZ-Szolnoki Olajbányász,NKA Universitas Pécs,Krnjajski Boris,,7,0,4,0,0,0,0,0,3,0,0,7,0,7,8,88,4,1,5,1,0,1,9,1,0,0,15,30,0.0
+134761,NHSZ-Szolnoki Olajbányász,NKA Universitas Pécs,Molnár Márton,,6,3,5,60,0,0,0,0,0,0,3,5,60,0,2,0,5,3,8,0,0,3,1,1,0,0,12,21,0.0
+134761,NHSZ-Szolnoki Olajbányász,NKA Universitas Pécs,Rudner Gábor,,3,0,3,0,0,0,0,1,4,25,1,7,14,0,0,0,1,1,2,1,0,3,0,1,0,1,1,14,0.0
+134761,NHSZ-Szolnoki Olajbányász,NKA Universitas Pécs,Dávid Tamás,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134761,NHSZ-Szolnoki Olajbányász,NKA Universitas Pécs,Huszár Balázs,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134757,OSE Lions,Falco-Vulcano Energia KC Szombathely,Johnson Kedrian Vermond,X,11,4,6,67,0,3,0,0,1,0,4,10,40,3,5,60,2,1,3,0,3,4,4,0,0,1,7,35,0.0
+134757,OSE Lions,Falco-Vulcano Energia KC Szombathely,Harrison Rayshon Malik,X,17,4,6,67,1,5,20,0,2,0,5,13,38,7,7,100,4,1,5,4,3,0,7,6,0,2,28,35,0.0
+134757,OSE Lions,Falco-Vulcano Energia KC Szombathely,Stojicic Dusan,X,22,5,7,71,0,2,0,2,5,40,7,14,50,6,6,100,3,2,5,1,1,3,4,1,0,2,25,31,0.0
+134757,OSE Lions,Falco-Vulcano Energia KC Szombathely,Csendes Péter,X,0,0,0,0,0,0,0,0,4,0,0,4,0,0,0,0,2,0,2,1,1,4,1,2,0,0,1,27,0.0
+134757,OSE Lions,Falco-Vulcano Energia KC Szombathely,Bogdán Benedek,X,4,0,2,0,0,2,0,1,3,33,1,7,14,1,2,50,4,0,4,0,0,3,1,0,0,0,2,21,0.0
+134757,OSE Lions,Falco-Vulcano Energia KC Szombathely,Zsiros Péter,,5,1,2,50,0,1,0,1,1,100,2,4,50,0,0,0,2,1,3,0,0,2,0,0,1,0,7,20,0.0
+134757,OSE Lions,Falco-Vulcano Energia KC Szombathely,Reece Joseph Emanuel,,8,1,4,25,0,0,0,0,0,0,1,4,25,6,10,60,4,5,9,1,1,0,5,4,1,1,20,16,0.0
+134757,OSE Lions,Falco-Vulcano Energia KC Szombathely,Kupai László Levente,,5,1,3,33,0,0,0,1,3,33,2,6,33,0,0,0,0,1,1,1,1,3,0,0,0,0,2,12,0.0
+134757,OSE Lions,Falco-Vulcano Energia KC Szombathely,Kristyák Viktor,,2,1,1,100,0,0,0,0,0,0,1,1,100,0,0,0,0,1,1,0,0,0,1,0,0,0,4,2,0.0
+134757,OSE Lions,Falco-Vulcano Energia KC Szombathely,Arnold Botond,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0.0
+134757,OSE Lions,Falco-Vulcano Energia KC Szombathely,Debreczeny Dávid,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+134757,Falco-Vulcano Energia KC Szombathely,OSE Lions,Gray Juwan Devante,X,9,1,2,50,0,0,0,2,4,50,3,6,50,1,2,50,1,1,2,0,0,1,3,1,1,1,12,25,0.0
+134757,Falco-Vulcano Energia KC Szombathely,OSE Lions,Whelan Patrick Mark,X,15,1,1,100,0,1,0,4,5,80,5,7,71,1,1,100,0,0,0,1,0,2,1,2,0,0,17,23,0.0
+134757,Falco-Vulcano Energia KC Szombathely,OSE Lions,Patton Joshua Kyle,X,16,6,6,100,0,0,0,0,0,0,6,6,100,4,7,57,8,1,9,1,2,2,4,1,4,0,30,23,0.0
+134757,Falco-Vulcano Energia KC Szombathely,OSE Lions,Váradi Benedek,X,11,1,2,50,0,1,0,3,6,50,4,9,44,0,1,0,5,0,5,0,0,2,2,7,0,0,19,22,0.0
+134757,Falco-Vulcano Energia KC Szombathely,OSE Lions,Tanoh Dez András,X,7,3,3,100,0,0,0,0,2,0,3,5,60,1,2,50,2,1,3,0,1,2,1,0,0,0,7,14,0.0
+134757,Falco-Vulcano Energia KC Szombathely,OSE Lions,Perl Zoltán,,19,4,5,80,0,1,0,1,3,33,5,9,56,8,8,100,5,1,6,0,1,1,5,5,0,0,30,23,0.0
+134757,Falco-Vulcano Energia KC Szombathely,OSE Lions,Trammell Darrion Lee,,6,0,2,0,0,2,0,2,5,40,2,9,22,0,0,0,0,1,1,3,3,3,2,1,0,1,3,20,0.0
+134757,Falco-Vulcano Energia KC Szombathely,OSE Lions,Bognár Kristóf,,0,0,1,0,0,0,0,0,3,0,0,4,0,0,0,0,2,1,3,1,2,2,0,1,1,0,0,19,0.0
+134757,Falco-Vulcano Energia KC Szombathely,OSE Lions,Rosic Uros,,10,2,2,100,0,0,0,2,5,40,4,7,57,0,0,0,4,0,4,0,0,3,0,0,0,0,11,16,0.0
+134757,Falco-Vulcano Energia KC Szombathely,OSE Lions,Keller Ákos,,5,2,3,67,0,1,0,0,0,0,2,4,50,1,2,50,3,2,5,0,0,4,1,1,0,0,9,12,0.0
+134757,Falco-Vulcano Energia KC Szombathely,OSE Lions,Herger Salamon,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,-1,2,0.0
+134757,Falco-Vulcano Energia KC Szombathely,OSE Lions,Horváth Roland Péter,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0
