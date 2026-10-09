@@ -1,0 +1,328 @@
+szezon,bajnoksag,meccs_id,csapat,ellenfel,jatekos,kezdo,pont,kozeli_sikeres,kozeli_kiserlet,kozeli_szazalek,kozeptav_sikeres,kozeptav_kiserlet,kozeptav_szazalek,tavoli_sikeres,tavoli_kiserlet,tavoli_szazalek,mezony_sikeres,mezony_kiserlet,mezony_szazalek,bunteto_sikeres,bunteto_kiserlet,bunteto_szazalek,lepattano_vedo,lepattano_tamado,lepattano_osszes,labdaszerzes,labdaeladas,fault_elkovetett,fault_kiharcolt,golpassz,blokk_adott,blokk_kapott,teljesitmenyindex,perc,plusz_minusz
+x2627,ferfi_nb1b_piros,135737,Tiszaújvárosi Termálfürdő Phoenix KK,Peka Bau-MEAFC Wolves,Polster Attila,X,8,1,2,50,0,1,0,2,5,40,3,8,38,0,0,0,8,1,9,4,0,3,0,2,1,1,19,30,0.0
+x2627,ferfi_nb1b_piros,135737,Tiszaújvárosi Termálfürdő Phoenix KK,Peka Bau-MEAFC Wolves,Ormai Botond Gábor,X,5,2,2,100,0,1,0,0,0,0,2,3,67,1,2,50,10,4,14,1,1,0,2,4,1,1,24,29,0.0
+x2627,ferfi_nb1b_piros,135737,Tiszaújvárosi Termálfürdő Phoenix KK,Peka Bau-MEAFC Wolves,Ervin Carlbe Lee,X,27,7,9,78,0,2,0,2,10,20,9,21,43,7,11,64,3,2,5,0,2,2,5,1,0,0,20,28,0.0
+x2627,ferfi_nb1b_piros,135737,Tiszaújvárosi Termálfürdő Phoenix KK,Peka Bau-MEAFC Wolves,Lucey Ciarán József,X,9,4,6,67,0,0,0,0,2,0,4,8,50,1,2,50,2,1,3,0,1,3,1,3,0,0,10,21,0.0
+x2627,ferfi_nb1b_piros,135737,Tiszaújvárosi Termálfürdő Phoenix KK,Peka Bau-MEAFC Wolves,Mester Márk,X,11,1,1,100,0,2,0,2,5,40,3,8,38,3,3,100,2,2,4,0,3,4,4,2,0,0,13,20,0.0
+x2627,ferfi_nb1b_piros,135737,Tiszaújvárosi Termálfürdő Phoenix KK,Peka Bau-MEAFC Wolves,Szabadfi Márk,,9,0,2,0,2,4,50,1,4,25,3,10,30,2,4,50,0,1,1,0,3,2,4,2,0,0,4,22,0.0
+x2627,ferfi_nb1b_piros,135737,Tiszaújvárosi Termálfürdő Phoenix KK,Peka Bau-MEAFC Wolves,Mayer Ákos,,8,2,3,67,0,0,0,0,0,0,2,3,67,4,6,67,2,1,3,0,0,1,4,2,0,0,14,20,0.0
+x2627,ferfi_nb1b_piros,135737,Tiszaújvárosi Termálfürdő Phoenix KK,Peka Bau-MEAFC Wolves,Pap Levente,,8,1,1,100,0,0,0,2,5,40,3,6,50,0,0,0,2,0,2,0,0,0,0,0,0,0,7,19,0.0
+x2627,ferfi_nb1b_piros,135737,Tiszaújvárosi Termálfürdő Phoenix KK,Peka Bau-MEAFC Wolves,Gerőcs Roland Bálint,,2,1,3,33,0,0,0,0,0,0,1,3,33,0,0,0,4,2,6,0,1,2,0,0,0,0,5,11,0.0
+x2627,ferfi_nb1b_piros,135737,Tiszaújvárosi Termálfürdő Phoenix KK,Peka Bau-MEAFC Wolves,Kovács Zoltán,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135737,Tiszaújvárosi Termálfürdő Phoenix KK,Peka Bau-MEAFC Wolves,Ferenczi Lajos,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135737,Tiszaújvárosi Termálfürdő Phoenix KK,Peka Bau-MEAFC Wolves,Sebők András,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135737,Peka Bau-MEAFC Wolves,Tiszaújvárosi Termálfürdő Phoenix KK,Velkey János,X,23,2,4,50,1,1,100,5,12,42,8,17,47,2,5,40,1,0,1,0,3,1,3,5,0,0,17,36,0.0
+x2627,ferfi_nb1b_piros,135737,Peka Bau-MEAFC Wolves,Tiszaújvárosi Termálfürdő Phoenix KK,Kékesi Kolos,X,17,5,7,71,2,3,67,1,7,14,8,17,47,0,0,0,4,1,5,1,2,4,4,4,0,0,20,34,0.0
+x2627,ferfi_nb1b_piros,135737,Peka Bau-MEAFC Wolves,Tiszaújvárosi Termálfürdő Phoenix KK,Dunai Zétény Péter,X,6,0,2,0,0,1,0,2,4,50,2,7,29,0,0,0,7,1,8,1,3,3,1,3,0,0,11,27,0.0
+x2627,ferfi_nb1b_piros,135737,Peka Bau-MEAFC Wolves,Tiszaújvárosi Termálfürdő Phoenix KK,Kelemen Ádám,X,10,5,7,71,0,0,0,0,0,0,5,7,71,0,2,0,4,1,5,0,0,5,1,3,1,0,16,25,0.0
+x2627,ferfi_nb1b_piros,135737,Peka Bau-MEAFC Wolves,Tiszaújvárosi Termálfürdő Phoenix KK,Meleg Károly Richárd,X,2,1,2,50,0,0,0,0,1,0,1,3,33,0,0,0,1,0,1,0,0,2,0,0,0,0,1,9,0.0
+x2627,ferfi_nb1b_piros,135737,Peka Bau-MEAFC Wolves,Tiszaújvárosi Termálfürdő Phoenix KK,Gadus Bogdán Olivér,,7,1,1,100,0,1,0,1,3,33,2,5,40,2,2,100,1,0,1,1,1,2,2,2,0,0,9,19,0.0
+x2627,ferfi_nb1b_piros,135737,Peka Bau-MEAFC Wolves,Tiszaújvárosi Termálfürdő Phoenix KK,Radics Gerzson,,2,1,5,20,0,0,0,0,1,0,1,6,17,0,0,0,5,2,7,0,0,1,0,1,0,2,5,19,0.0
+x2627,ferfi_nb1b_piros,135737,Peka Bau-MEAFC Wolves,Tiszaújvárosi Termálfürdő Phoenix KK,Ragályi Levente Gergely,,5,2,3,67,0,0,0,0,0,0,2,3,67,1,2,50,1,0,1,0,0,3,2,1,0,0,7,14,0.0
+x2627,ferfi_nb1b_piros,135737,Peka Bau-MEAFC Wolves,Tiszaújvárosi Termálfürdő Phoenix KK,Árva-File Balázs,,8,1,2,50,0,0,0,1,3,33,2,5,40,3,4,75,2,2,4,1,0,0,2,1,0,0,12,11,0.0
+x2627,ferfi_nb1b_piros,135737,Peka Bau-MEAFC Wolves,Tiszaújvárosi Termálfürdő Phoenix KK,Rozmán Flórián,,2,0,2,0,0,0,0,0,0,0,0,2,0,2,2,100,0,1,1,0,0,0,1,0,1,0,3,6,0.0
+x2627,ferfi_nb1b_piros,135737,Peka Bau-MEAFC Wolves,Tiszaújvárosi Termálfürdő Phoenix KK,Molnár Levente,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135737,Peka Bau-MEAFC Wolves,Tiszaújvárosi Termálfürdő Phoenix KK,Vincze Roland,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135741,Jászberényi KSE,HÜBNER Nyíregyháza BS,Bolyos Mateja,X,11,1,2,50,0,1,0,1,3,33,2,6,33,6,7,86,3,0,3,1,7,3,7,4,0,0,14,36,0.0
+x2627,ferfi_nb1b_piros,135741,Jászberényi KSE,HÜBNER Nyíregyháza BS,Geröly Márton András,X,16,3,4,75,0,0,0,3,8,38,6,12,50,1,2,50,4,1,5,2,2,2,1,3,0,0,18,31,0.0
+x2627,ferfi_nb1b_piros,135741,Jászberényi KSE,HÜBNER Nyíregyháza BS,Arnóczi Áron,X,14,5,8,63,0,1,0,1,4,25,6,13,46,1,2,50,3,2,5,2,4,4,6,5,0,0,20,30,0.0
+x2627,ferfi_nb1b_piros,135741,Jászberényi KSE,HÜBNER Nyíregyháza BS,Zsók Áron,X,4,2,5,40,0,0,0,0,0,0,2,5,40,0,0,0,8,1,9,1,1,0,1,0,0,0,11,25,0.0
+x2627,ferfi_nb1b_piros,135741,Jászberényi KSE,HÜBNER Nyíregyháza BS,Szálkai Gordon,X,2,1,5,20,0,0,0,0,1,0,1,6,17,0,0,0,0,2,2,0,2,3,0,0,1,0,-2,18,0.0
+x2627,ferfi_nb1b_piros,135741,Jászberényi KSE,HÜBNER Nyíregyháza BS,Márkus Balázs,,14,2,3,67,0,1,0,1,2,50,3,6,50,7,8,88,1,1,2,0,1,3,4,1,1,0,17,23,0.0
+x2627,ferfi_nb1b_piros,135741,Jászberényi KSE,HÜBNER Nyíregyháza BS,Abraham Arabo,,6,2,3,67,0,0,0,0,0,0,2,3,67,2,2,100,5,3,8,0,1,4,1,0,0,0,13,15,0.0
+x2627,ferfi_nb1b_piros,135741,Jászberényi KSE,HÜBNER Nyíregyháza BS,Frank Áron,,4,1,1,100,0,0,0,0,1,0,1,2,50,2,3,67,2,0,2,1,0,1,2,2,0,0,9,14,0.0
+x2627,ferfi_nb1b_piros,135741,Jászberényi KSE,HÜBNER Nyíregyháza BS,Rékasi Bojta Bendegúz,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2,0,0,1,0,0,0,1,1,4,0.0
+x2627,ferfi_nb1b_piros,135741,Jászberényi KSE,HÜBNER Nyíregyháza BS,Magyari Kristóf,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1,4,0.0
+x2627,ferfi_nb1b_piros,135741,Jászberényi KSE,HÜBNER Nyíregyháza BS,Sárközy Zsombor,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135741,Jászberényi KSE,HÜBNER Nyíregyháza BS,Turjányi Márk,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135741,HÜBNER Nyíregyháza BS,Jászberényi KSE,Bazsó Brúnó Tamás,X,18,2,6,33,0,1,0,3,7,43,5,14,36,5,5,100,4,1,5,2,2,1,4,1,0,0,19,35,0.0
+x2627,ferfi_nb1b_piros,135741,HÜBNER Nyíregyháza BS,Jászberényi KSE,Kopácsi Ákos,X,15,3,6,50,0,0,0,2,6,33,5,12,42,3,4,75,1,2,3,4,3,4,5,4,0,0,20,28,0.0
+x2627,ferfi_nb1b_piros,135741,HÜBNER Nyíregyháza BS,Jászberényi KSE,Németh András,X,4,2,4,50,0,2,0,0,7,0,2,13,15,0,0,0,4,0,4,0,2,2,4,1,1,2,1,26,0.0
+x2627,ferfi_nb1b_piros,135741,HÜBNER Nyíregyháza BS,Jászberényi KSE,Tóth Patrik Kristóf,X,9,2,2,100,0,1,0,1,1,100,3,4,75,2,4,50,1,3,4,1,0,2,3,0,0,0,14,23,0.0
+x2627,ferfi_nb1b_piros,135741,HÜBNER Nyíregyháza BS,Jászberényi KSE,Verebélyi Áron,X,4,1,1,100,1,2,50,0,1,0,2,4,50,0,0,0,0,0,0,1,0,3,0,2,0,0,5,14,0.0
+x2627,ferfi_nb1b_piros,135741,HÜBNER Nyíregyháza BS,Jászberényi KSE,Végső Bálint,,10,2,4,50,0,1,0,2,4,50,4,9,44,0,0,0,0,2,2,3,1,4,1,3,0,0,13,25,0.0
+x2627,ferfi_nb1b_piros,135741,HÜBNER Nyíregyháza BS,Jászberényi KSE,Richter Dániel,,3,0,1,0,0,0,0,1,3,33,1,4,25,0,2,0,4,3,7,2,2,3,1,1,0,0,7,16,0.0
+x2627,ferfi_nb1b_piros,135741,HÜBNER Nyíregyháza BS,Jászberényi KSE,Orosi Bálint Gábor,,1,0,2,0,0,0,0,0,0,0,0,2,0,1,2,50,2,0,2,0,1,1,4,1,0,0,4,13,0.0
+x2627,ferfi_nb1b_piros,135741,HÜBNER Nyíregyháza BS,Jászberényi KSE,Hibján Máté,,3,0,1,0,0,0,0,1,4,25,1,5,20,0,0,0,1,3,4,0,0,3,0,0,0,0,3,10,0.0
+x2627,ferfi_nb1b_piros,135741,HÜBNER Nyíregyháza BS,Jászberényi KSE,Vajda Dávid Levente,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,6,0.0
+x2627,ferfi_nb1b_piros,135741,HÜBNER Nyíregyháza BS,Jászberényi KSE,Goór Dániel,,3,0,0,0,0,0,0,1,1,100,1,1,100,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0.0
+x2627,ferfi_nb1b_piros,135741,HÜBNER Nyíregyháza BS,Jászberényi KSE,Kristóf Péter Kristóf,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135745,Salgótarjáni KSE,DEAC U23,Mucza Tamás,X,14,3,6,50,0,0,0,2,4,50,5,10,50,2,2,100,4,1,5,0,6,4,3,2,0,0,13,31,0.0
+x2627,ferfi_nb1b_piros,135745,Salgótarjáni KSE,DEAC U23,Cserényi Marcell,X,6,3,5,60,0,0,0,0,1,0,3,6,50,0,0,0,8,2,10,0,2,2,0,2,0,0,13,30,0.0
+x2627,ferfi_nb1b_piros,135745,Salgótarjáni KSE,DEAC U23,Fekete Viktor Norbert,X,12,0,3,0,0,0,0,4,10,40,4,13,31,0,0,0,3,0,3,3,2,2,2,4,0,0,13,29,0.0
+x2627,ferfi_nb1b_piros,135745,Salgótarjáni KSE,DEAC U23,Takács Dániel,X,3,0,0,0,0,1,0,1,3,33,1,4,25,0,0,0,5,0,5,4,4,2,2,3,0,0,10,25,0.0
+x2627,ferfi_nb1b_piros,135745,Salgótarjáni KSE,DEAC U23,Williams Jr Eric Leval,X,4,2,6,33,0,0,0,0,2,0,2,8,25,0,2,0,5,1,6,2,3,1,2,1,2,0,6,24,0.0
+x2627,ferfi_nb1b_piros,135745,Salgótarjáni KSE,DEAC U23,Hargitai Krisztián,,4,1,1,100,0,0,0,0,0,0,1,1,100,2,2,100,2,1,3,0,1,2,2,0,1,0,9,17,0.0
+x2627,ferfi_nb1b_piros,135745,Salgótarjáni KSE,DEAC U23,Kámán Bálint,,18,3,5,60,1,2,50,2,4,50,6,11,55,4,4,100,3,0,3,0,3,0,4,1,0,0,18,15,0.0
+x2627,ferfi_nb1b_piros,135745,Salgótarjáni KSE,DEAC U23,Boka-Magó Áron István,,3,0,0,0,0,0,0,1,4,25,1,4,25,0,0,0,2,0,2,1,0,1,0,2,0,1,5,10,0.0
+x2627,ferfi_nb1b_piros,135745,Salgótarjáni KSE,DEAC U23,Osztoics Milán,,3,1,2,50,0,0,0,0,0,0,1,2,50,1,4,25,0,0,0,0,1,0,3,0,0,0,1,8,0.0
+x2627,ferfi_nb1b_piros,135745,Salgótarjáni KSE,DEAC U23,Balázs Márton József,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,7,0.0
+x2627,ferfi_nb1b_piros,135745,Salgótarjáni KSE,DEAC U23,Németh Atilla Gergő,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,3,0.0
+x2627,ferfi_nb1b_piros,135745,Salgótarjáni KSE,DEAC U23,Nagy Ádám Béla,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0.0
+x2627,ferfi_nb1b_piros,135745,DEAC U23,Salgótarjáni KSE,Várszegi Ádám,X,8,1,2,50,0,0,0,2,9,22,3,11,27,0,0,0,4,1,5,1,1,1,2,1,1,1,9,29,0.0
+x2627,ferfi_nb1b_piros,135745,DEAC U23,Salgótarjáni KSE,Szász-Veres Márk,X,14,2,4,50,0,0,0,3,12,25,5,16,31,1,2,50,6,1,7,2,1,3,3,3,0,0,16,29,0.0
+x2627,ferfi_nb1b_piros,135745,DEAC U23,Salgótarjáni KSE,Gál Csongor,X,7,2,2,100,0,1,0,1,8,13,3,11,27,0,2,0,5,1,6,5,7,2,3,5,0,0,9,29,0.0
+x2627,ferfi_nb1b_piros,135745,DEAC U23,Salgótarjáni KSE,Ságodi Róbert,X,14,4,5,80,0,0,0,2,6,33,6,11,55,0,0,0,2,2,4,0,3,0,0,5,0,0,15,28,0.0
+x2627,ferfi_nb1b_piros,135745,DEAC U23,Salgótarjáni KSE,Bankó Zoltán Martin,X,9,2,6,33,0,0,0,1,4,25,3,10,30,2,2,100,4,1,5,1,2,3,1,1,0,1,8,27,0.0
+x2627,ferfi_nb1b_piros,135745,DEAC U23,Salgótarjáni KSE,Kiss Tamás,,4,2,4,50,0,0,0,0,0,0,2,4,50,0,0,0,2,1,3,2,4,3,4,1,0,1,8,18,0.0
+x2627,ferfi_nb1b_piros,135745,DEAC U23,Salgótarjáni KSE,Vadai Balázs,,8,2,3,67,1,2,50,0,1,0,3,6,50,2,2,100,2,2,4,2,0,3,1,0,0,0,12,17,0.0
+x2627,ferfi_nb1b_piros,135745,DEAC U23,Salgótarjáni KSE,Kedvek László,,2,1,1,100,0,0,0,0,0,0,1,1,100,0,0,0,2,0,2,0,0,2,0,0,0,0,4,12,0.0
+x2627,ferfi_nb1b_piros,135745,DEAC U23,Salgótarjáni KSE,Fekete Balázs,,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,3,1,4,0,0,2,0,0,0,0,2,11,0.0
+x2627,ferfi_nb1b_piros,135745,DEAC U23,Salgótarjáni KSE,Székely Bence,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135743,Újbuda MAFC,PVSK-Panthers,Pápai Máté Barnabás,X,10,4,10,40,0,0,0,0,0,0,4,10,40,2,4,50,10,3,13,0,4,3,3,1,0,0,15,34,0.0
+x2627,ferfi_nb1b_piros,135743,Újbuda MAFC,PVSK-Panthers,Bordács Gábor Soma,X,8,3,5,60,0,1,0,0,0,0,3,6,50,2,6,33,12,7,19,1,0,2,4,4,0,0,29,32,0.0
+x2627,ferfi_nb1b_piros,135743,Újbuda MAFC,PVSK-Panthers,Polgárdy Ádám,X,15,2,6,33,0,1,0,2,9,22,4,16,25,5,9,56,2,1,3,2,2,2,6,6,0,0,14,29,0.0
+x2627,ferfi_nb1b_piros,135743,Újbuda MAFC,PVSK-Panthers,Kovács Levente Hetény,X,12,4,6,67,0,0,0,0,3,0,4,9,44,4,8,50,3,0,3,0,2,2,9,4,1,0,18,24,0.0
+x2627,ferfi_nb1b_piros,135743,Újbuda MAFC,PVSK-Panthers,Molnár Tamás,X,8,1,2,50,0,0,0,2,7,29,3,9,33,0,0,0,0,0,0,1,0,2,1,2,0,0,6,24,0.0
+x2627,ferfi_nb1b_piros,135743,Újbuda MAFC,PVSK-Panthers,Dávid Benjámin,,9,2,2,100,0,0,0,1,3,33,3,5,60,2,3,67,1,0,1,1,2,2,2,2,0,0,10,16,0.0
+x2627,ferfi_nb1b_piros,135743,Újbuda MAFC,PVSK-Panthers,Viola Dávid Zsolt,,9,0,0,0,0,0,0,3,7,43,3,7,43,0,0,0,0,0,0,1,0,1,0,0,0,0,6,14,0.0
+x2627,ferfi_nb1b_piros,135743,Újbuda MAFC,PVSK-Panthers,Geiger Bálint József,,4,0,0,0,0,1,0,1,1,100,1,2,50,1,2,50,1,0,1,0,1,3,3,3,0,0,8,13,0.0
+x2627,ferfi_nb1b_piros,135743,Újbuda MAFC,PVSK-Panthers,Pintér Dávid,,4,0,0,0,0,0,0,1,1,100,1,1,100,1,1,100,0,0,0,0,2,1,1,0,0,0,3,5,0.0
+x2627,ferfi_nb1b_piros,135743,Újbuda MAFC,PVSK-Panthers,Balázs Barnabás,,3,0,1,0,0,0,0,1,1,100,1,2,50,0,0,0,1,0,1,0,1,2,0,0,0,0,2,5,0.0
+x2627,ferfi_nb1b_piros,135743,Újbuda MAFC,PVSK-Panthers,Orbán Imre,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0.0
+x2627,ferfi_nb1b_piros,135743,Újbuda MAFC,PVSK-Panthers,Solomon Márk,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135743,PVSK-Panthers,Újbuda MAFC,Molnár Mátyás,X,19,1,3,33,0,0,0,4,7,57,5,10,50,5,5,100,3,0,3,4,3,3,5,5,0,0,28,30,0.0
+x2627,ferfi_nb1b_piros,135743,PVSK-Panthers,Újbuda MAFC,Balogh Szilárd,X,20,5,5,100,1,3,33,2,3,67,8,11,73,2,3,67,7,0,7,0,1,4,2,5,0,0,29,29,0.0
+x2627,ferfi_nb1b_piros,135743,PVSK-Panthers,Újbuda MAFC,Csaba György,X,7,3,6,50,0,0,0,0,2,0,3,8,38,1,2,50,3,1,4,1,1,2,1,4,0,0,10,24,0.0
+x2627,ferfi_nb1b_piros,135743,PVSK-Panthers,Újbuda MAFC,Bunos Oleksandr,X,8,2,5,40,0,0,0,0,3,0,2,8,25,4,4,100,5,1,6,1,0,4,3,1,0,1,13,23,0.0
+x2627,ferfi_nb1b_piros,135743,PVSK-Panthers,Újbuda MAFC,Werner Viktor,X,4,2,2,100,0,0,0,0,0,0,2,2,100,0,2,0,8,1,9,2,1,5,1,3,0,0,16,14,0.0
+x2627,ferfi_nb1b_piros,135743,PVSK-Panthers,Újbuda MAFC,Kertész Dávid,,14,3,5,60,0,0,0,2,7,29,5,12,42,2,2,100,1,0,1,2,0,2,1,3,0,0,14,24,0.0
+x2627,ferfi_nb1b_piros,135743,PVSK-Panthers,Újbuda MAFC,Dordevic Nemanja,,6,1,1,100,0,2,0,0,3,0,1,6,17,4,4,100,4,0,4,0,0,5,3,2,0,0,10,20,0.0
+x2627,ferfi_nb1b_piros,135743,PVSK-Panthers,Újbuda MAFC,Szita Márton Tibor,,9,3,3,100,0,1,0,1,4,25,4,8,50,0,0,0,0,1,1,0,0,0,1,1,0,0,8,16,0.0
+x2627,ferfi_nb1b_piros,135743,PVSK-Panthers,Újbuda MAFC,Czermann Máté,,8,1,1,100,1,3,33,1,3,33,3,7,43,1,2,50,2,1,3,0,1,3,3,0,0,0,8,15,0.0
+x2627,ferfi_nb1b_piros,135743,PVSK-Panthers,Újbuda MAFC,Aradi Atilla,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,0.0
+x2627,ferfi_nb1b_piros,135743,PVSK-Panthers,Újbuda MAFC,Galambos Gábor,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135743,PVSK-Panthers,Újbuda MAFC,Bodonyi Barnabás,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135739,ZTE KK,Insedo Veszprém Kosárlabda Klub,Cardet Jr Wesley Elijah,X,16,4,7,57,0,0,0,1,6,17,5,13,38,5,6,83,6,0,6,0,3,1,6,5,0,0,21,35,0.0
+x2627,ferfi_nb1b_piros,135739,ZTE KK,Insedo Veszprém Kosárlabda Klub,Pongó Máté,X,17,2,2,100,0,0,0,3,4,75,5,6,83,4,5,80,2,0,2,1,4,3,3,1,0,0,18,35,0.0
+x2627,ferfi_nb1b_piros,135739,ZTE KK,Insedo Veszprém Kosárlabda Klub,Gerencsér Botond,X,20,7,9,78,0,0,0,2,4,50,9,13,69,0,2,0,4,0,4,2,1,4,3,2,0,1,24,34,0.0
+x2627,ferfi_nb1b_piros,135739,ZTE KK,Insedo Veszprém Kosárlabda Klub,Kis Attila Raul,X,5,1,1,100,1,1,100,0,1,0,2,3,67,1,2,50,1,0,1,1,1,3,1,3,0,0,8,20,0.0
+x2627,ferfi_nb1b_piros,135739,ZTE KK,Insedo Veszprém Kosárlabda Klub,Tóth Ádám,X,8,3,4,75,0,0,0,0,0,0,3,4,75,2,3,67,0,1,1,1,2,4,3,3,0,0,12,17,0.0
+x2627,ferfi_nb1b_piros,135739,ZTE KK,Insedo Veszprém Kosárlabda Klub,Mokánszki Máté,,5,1,2,50,0,0,0,1,3,33,2,5,40,0,0,0,10,1,11,1,1,1,3,1,1,0,18,23,0.0
+x2627,ferfi_nb1b_piros,135739,ZTE KK,Insedo Veszprém Kosárlabda Klub,Glatz Gábor Soma,,9,0,2,0,0,0,0,0,1,0,0,3,0,9,10,90,0,2,2,3,2,3,6,1,0,1,15,14,0.0
+x2627,ferfi_nb1b_piros,135739,ZTE KK,Insedo Veszprém Kosárlabda Klub,Kucsora Csaba Ákos,,3,0,2,0,0,1,0,1,2,50,1,5,20,0,0,0,2,1,3,0,2,0,0,1,0,0,1,13,0.0
+x2627,ferfi_nb1b_piros,135739,ZTE KK,Insedo Veszprém Kosárlabda Klub,Török-Papp Benedek,,3,0,0,0,0,0,0,1,3,33,1,3,33,0,0,0,0,0,0,2,0,1,0,0,0,0,3,6,0.0
+x2627,ferfi_nb1b_piros,135739,ZTE KK,Insedo Veszprém Kosárlabda Klub,Szalay Domonkos,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,0.0
+x2627,ferfi_nb1b_piros,135739,ZTE KK,Insedo Veszprém Kosárlabda Klub,Ruzsics Barnabás,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135739,ZTE KK,Insedo Veszprém Kosárlabda Klub,Garai Dávid Gábor,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135739,Insedo Veszprém Kosárlabda Klub,ZTE KK,Mészáros Ágoston,X,9,0,0,0,0,1,0,3,5,60,3,6,50,0,0,0,6,1,7,3,3,3,3,1,0,0,17,36,0.0
+x2627,ferfi_nb1b_piros,135739,Insedo Veszprém Kosárlabda Klub,ZTE KK,Illés Máté Csongor,X,16,1,4,25,2,3,67,3,12,25,6,19,32,1,2,50,0,0,0,1,3,3,2,0,0,1,2,32,0.0
+x2627,ferfi_nb1b_piros,135739,Insedo Veszprém Kosárlabda Klub,ZTE KK,Bonifert Bendegúz,X,9,1,1,100,0,1,0,1,4,25,2,6,33,4,4,100,2,0,2,0,2,3,4,4,0,0,13,23,0.0
+x2627,ferfi_nb1b_piros,135739,Insedo Veszprém Kosárlabda Klub,ZTE KK,Völgyi Marcell Zoltán,X,11,2,4,50,2,2,100,0,0,0,4,6,67,3,6,50,4,0,4,3,2,5,7,0,1,0,19,22,0.0
+x2627,ferfi_nb1b_piros,135739,Insedo Veszprém Kosárlabda Klub,ZTE KK,Kocsis Zalán,X,10,3,3,100,0,0,0,1,3,33,4,6,67,1,2,50,3,3,6,1,0,2,1,1,0,0,16,21,0.0
+x2627,ferfi_nb1b_piros,135739,Insedo Veszprém Kosárlabda Klub,ZTE KK,Tóth Barna,,7,1,2,50,1,2,50,0,2,0,2,6,33,3,4,75,0,1,1,3,0,4,3,2,0,0,11,21,0.0
+x2627,ferfi_nb1b_piros,135739,Insedo Veszprém Kosárlabda Klub,ZTE KK,Barba-Bey Ahmed Tyree,,6,0,1,0,3,4,75,0,1,0,3,6,50,0,0,0,1,0,1,0,1,2,0,1,1,0,5,15,0.0
+x2627,ferfi_nb1b_piros,135739,Insedo Veszprém Kosárlabda Klub,ZTE KK,Schöll Richárd,,4,1,1,100,0,0,0,0,0,0,1,1,100,2,4,50,1,2,3,0,1,1,2,0,0,0,6,13,0.0
+x2627,ferfi_nb1b_piros,135739,Insedo Veszprém Kosárlabda Klub,ZTE KK,Kass Balázs,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,0,2,0,0,2,1,2,0,0,4,12,0.0
+x2627,ferfi_nb1b_piros,135739,Insedo Veszprém Kosárlabda Klub,ZTE KK,Varga Ádám Dániel,,2,1,1,100,0,0,0,0,1,0,1,2,50,0,0,0,0,1,1,0,0,0,0,0,0,0,2,4,0.0
+x2627,ferfi_nb1b_piros,135739,Insedo Veszprém Kosárlabda Klub,ZTE KK,Schmera Gergely,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0.0
+x2627,ferfi_nb1b_piros,135739,Insedo Veszprém Kosárlabda Klub,ZTE KK,Scheff Milán,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135735,BKG PRIMA Akadémia,TF-BP,Nagy Botond Ágoston,X,34,1,5,20,4,6,67,5,13,38,10,24,42,9,11,82,1,0,1,1,3,3,14,3,0,0,34,40,0.0
+x2627,ferfi_nb1b_piros,135735,BKG PRIMA Akadémia,TF-BP,Nagy Benedek Ágost,X,11,1,1,100,0,0,0,3,5,60,4,6,67,0,0,0,7,0,7,2,1,2,2,11,0,0,30,40,0.0
+x2627,ferfi_nb1b_piros,135735,BKG PRIMA Akadémia,TF-BP,Reiber Dean Thomas,X,21,4,6,67,2,7,29,2,5,40,8,18,44,3,3,100,5,2,7,1,1,1,3,2,0,0,23,35,0.0
+x2627,ferfi_nb1b_piros,135735,BKG PRIMA Akadémia,TF-BP,Galambos Árpád,X,8,3,5,60,1,2,50,0,0,0,4,7,57,0,0,0,1,2,3,3,2,5,1,2,0,0,12,22,0.0
+x2627,ferfi_nb1b_piros,135735,BKG PRIMA Akadémia,TF-BP,Kovács Leonárd,X,0,0,1,0,0,0,0,0,1,0,0,2,0,0,2,0,2,0,2,1,0,2,1,0,0,0,0,19,0.0
+x2627,ferfi_nb1b_piros,135735,BKG PRIMA Akadémia,TF-BP,Dokmanovic Milán,,2,1,2,50,0,0,0,0,1,0,1,3,33,0,0,0,1,2,3,1,1,2,0,1,0,0,4,15,0.0
+x2627,ferfi_nb1b_piros,135735,BKG PRIMA Akadémia,TF-BP,Csécsei Gergő,,2,0,0,0,1,1,100,0,1,0,1,2,50,0,1,0,0,1,1,0,1,4,1,0,0,0,1,14,0.0
+x2627,ferfi_nb1b_piros,135735,BKG PRIMA Akadémia,TF-BP,Büki Lóránt,,3,0,0,0,0,1,0,1,6,17,1,7,14,0,0,0,1,1,2,0,0,2,0,0,0,0,-1,8,0.0
+x2627,ferfi_nb1b_piros,135735,BKG PRIMA Akadémia,TF-BP,Demeter Levente,,2,1,1,100,0,0,0,0,0,0,1,1,100,0,0,0,0,1,1,0,0,1,0,0,0,0,3,7,0.0
+x2627,ferfi_nb1b_piros,135735,BKG PRIMA Akadémia,TF-BP,Szeleczki István,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135735,BKG PRIMA Akadémia,TF-BP,Lehoczki Attila,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135735,BKG PRIMA Akadémia,TF-BP,Várszegi Balázs,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135735,TF-BP,BKG PRIMA Akadémia,Swanson Kevin Wade,X,27,6,7,86,4,6,67,0,2,0,10,15,67,7,11,64,7,4,11,1,2,2,7,2,0,0,37,36,0.0
+x2627,ferfi_nb1b_piros,135735,TF-BP,BKG PRIMA Akadémia,Boros Márk,X,11,5,8,63,0,0,0,0,1,0,5,9,56,1,3,33,4,0,4,3,4,1,2,4,0,0,14,29,0.0
+x2627,ferfi_nb1b_piros,135735,TF-BP,BKG PRIMA Akadémia,Molnár Dániel,X,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,2,0,2,0,2,3,1,0,0,0,-1,22,0.0
+x2627,ferfi_nb1b_piros,135735,TF-BP,BKG PRIMA Akadémia,Inalegwu Marcell Sámuel,X,7,1,1,100,0,0,0,1,3,33,2,4,50,2,2,100,1,1,2,0,2,2,1,2,0,0,8,15,0.0
+x2627,ferfi_nb1b_piros,135735,TF-BP,BKG PRIMA Akadémia,Czermann Patrik Ákos,X,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,50,2,1,3,0,1,4,1,0,0,0,3,11,0.0
+x2627,ferfi_nb1b_piros,135735,TF-BP,BKG PRIMA Akadémia,Antoni Csanád Zoltán,,15,1,2,50,0,2,0,4,10,40,5,14,36,1,2,50,5,2,7,0,2,4,1,2,0,0,13,26,0.0
+x2627,ferfi_nb1b_piros,135735,TF-BP,BKG PRIMA Akadémia,Horváth Botond,,6,1,2,50,0,0,0,1,2,50,2,4,50,1,2,50,1,1,2,0,0,3,3,3,0,0,11,25,0.0
+x2627,ferfi_nb1b_piros,135735,TF-BP,BKG PRIMA Akadémia,Lőrincz Boldizsár Zalán,,3,1,1,100,0,0,0,0,0,0,1,1,100,1,2,50,3,0,3,1,2,3,1,0,0,0,5,18,0.0
+x2627,ferfi_nb1b_piros,135735,TF-BP,BKG PRIMA Akadémia,Molnár Marcell József,,8,3,3,100,0,0,0,0,1,0,3,4,75,2,4,50,1,0,1,0,3,1,3,1,0,0,7,14,0.0
+x2627,ferfi_nb1b_piros,135735,TF-BP,BKG PRIMA Akadémia,Fábián Szabolcs,,2,0,0,0,1,1,100,0,0,0,1,1,100,0,0,0,1,0,1,0,0,0,0,1,0,0,4,4,0.0
+x2627,ferfi_nb1b_piros,135735,TF-BP,BKG PRIMA Akadémia,Hidvégi Gergő,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135735,TF-BP,BKG PRIMA Akadémia,Hansági Kristóf Zalán,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135753,Tiszaújvárosi Termálfürdő Phoenix KK,Jászberényi KSE,Ervin Carlbe Lee,X,15,4,5,80,0,0,0,0,2,0,4,7,57,7,8,88,4,0,4,2,0,3,6,5,0,1,28,35,0.0
+x2627,ferfi_nb1b_piros,135753,Tiszaújvárosi Termálfürdő Phoenix KK,Jászberényi KSE,Polster Attila,X,9,0,1,0,0,0,0,3,8,38,3,9,33,0,0,0,1,1,2,1,3,1,0,6,0,2,9,25,0.0
+x2627,ferfi_nb1b_piros,135753,Tiszaújvárosi Termálfürdő Phoenix KK,Jászberényi KSE,Lucey Ciarán József,X,8,3,4,75,0,0,0,0,2,0,3,6,50,2,4,50,5,1,6,0,1,1,8,2,0,0,18,24,0.0
+x2627,ferfi_nb1b_piros,135753,Tiszaújvárosi Termálfürdő Phoenix KK,Jászberényi KSE,Ormai Botond Gábor,X,6,2,5,40,1,1,100,0,1,0,3,7,43,0,0,0,5,1,6,0,1,4,0,4,1,1,12,23,0.0
+x2627,ferfi_nb1b_piros,135753,Tiszaújvárosi Termálfürdő Phoenix KK,Jászberényi KSE,Mester Márk,X,6,0,0,0,0,0,0,2,5,40,2,5,40,0,0,0,2,0,2,0,2,3,0,1,0,0,4,21,0.0
+x2627,ferfi_nb1b_piros,135753,Tiszaújvárosi Termálfürdő Phoenix KK,Jászberényi KSE,Szabadfi Márk,,11,1,1,100,3,4,75,1,3,33,5,8,63,0,0,0,2,0,2,0,1,0,1,2,0,0,12,22,0.0
+x2627,ferfi_nb1b_piros,135753,Tiszaújvárosi Termálfürdő Phoenix KK,Jászberényi KSE,Mayer Ákos,,5,1,2,50,0,0,0,0,1,0,1,3,33,3,4,75,5,1,6,0,1,0,4,0,0,0,11,18,0.0
+x2627,ferfi_nb1b_piros,135753,Tiszaújvárosi Termálfürdő Phoenix KK,Jászberényi KSE,Gerőcs Roland Bálint,,7,1,2,50,1,1,100,1,2,50,3,5,60,0,0,0,1,1,2,0,1,3,1,0,1,0,8,16,0.0
+x2627,ferfi_nb1b_piros,135753,Tiszaújvárosi Termálfürdő Phoenix KK,Jászberényi KSE,Pap Levente,,7,2,2,100,0,1,0,1,4,25,3,7,43,0,0,0,2,2,4,1,0,1,0,2,0,0,10,16,0.0
+x2627,ferfi_nb1b_piros,135753,Tiszaújvárosi Termálfürdő Phoenix KK,Jászberényi KSE,Kovács Zoltán,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135753,Tiszaújvárosi Termálfürdő Phoenix KK,Jászberényi KSE,Ferenczi Lajos,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135753,Tiszaújvárosi Termálfürdő Phoenix KK,Jászberényi KSE,Sebők András,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135753,Jászberényi KSE,Tiszaújvárosi Termálfürdő Phoenix KK,Geröly Márton András,X,12,0,2,0,0,0,0,4,12,33,4,14,29,0,0,0,9,2,11,1,2,3,1,3,3,1,19,34,0.0
+x2627,ferfi_nb1b_piros,135753,Jászberényi KSE,Tiszaújvárosi Termálfürdő Phoenix KK,Arnóczi Áron,X,16,3,5,60,0,0,0,2,6,33,5,11,45,4,7,57,1,0,1,3,3,3,5,2,0,1,15,29,0.0
+x2627,ferfi_nb1b_piros,135753,Jászberényi KSE,Tiszaújvárosi Termálfürdő Phoenix KK,Bolyos Mateja,X,13,1,2,50,0,2,0,3,8,38,4,12,33,2,3,67,2,0,2,0,0,1,2,3,0,0,11,29,0.0
+x2627,ferfi_nb1b_piros,135753,Jászberényi KSE,Tiszaújvárosi Termálfürdő Phoenix KK,Szálkai Gordon,X,6,0,0,0,3,3,100,0,1,0,3,4,75,0,0,0,1,0,1,2,2,1,1,2,0,0,9,21,0.0
+x2627,ferfi_nb1b_piros,135753,Jászberényi KSE,Tiszaújvárosi Termálfürdő Phoenix KK,Zsók Áron,X,2,1,2,50,0,0,0,0,1,0,1,3,33,0,0,0,1,1,2,0,0,4,0,0,0,0,2,20,0.0
+x2627,ferfi_nb1b_piros,135753,Jászberényi KSE,Tiszaújvárosi Termálfürdő Phoenix KK,Abraham Arabo,,6,1,1,100,0,0,0,0,0,0,1,1,100,4,4,100,3,4,7,0,1,3,4,0,1,0,17,23,0.0
+x2627,ferfi_nb1b_piros,135753,Jászberényi KSE,Tiszaújvárosi Termálfürdő Phoenix KK,Frank Áron,,8,1,1,100,0,3,0,2,8,25,3,12,25,0,0,0,6,0,6,0,0,1,0,1,0,0,6,22,0.0
+x2627,ferfi_nb1b_piros,135753,Jászberényi KSE,Tiszaújvárosi Termálfürdő Phoenix KK,Márkus Balázs,,7,1,4,25,0,0,0,1,3,33,2,7,29,2,4,50,1,1,2,1,2,3,2,2,0,0,5,19,0.0
+x2627,ferfi_nb1b_piros,135753,Jászberényi KSE,Tiszaújvárosi Termálfürdő Phoenix KK,Rékasi Bojta Bendegúz,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0.0
+x2627,ferfi_nb1b_piros,135753,Jászberényi KSE,Tiszaújvárosi Termálfürdő Phoenix KK,Jakus Bálint,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135753,Jászberényi KSE,Tiszaújvárosi Termálfürdő Phoenix KK,Turjányi Márk,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135753,Jászberényi KSE,Tiszaújvárosi Termálfürdő Phoenix KK,Magyari Kristóf,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135757,DEAC U23,HÜBNER Nyíregyháza BS,Bankó Zoltán Martin,X,6,2,7,29,0,0,0,0,2,0,2,9,22,2,3,67,3,1,4,1,0,3,4,0,0,1,7,22,0.0
+x2627,ferfi_nb1b_piros,135757,DEAC U23,HÜBNER Nyíregyháza BS,Flasár Botond,X,11,4,4,100,0,0,0,0,0,0,4,4,100,3,4,75,3,0,3,3,4,3,3,5,1,0,21,22,0.0
+x2627,ferfi_nb1b_piros,135757,DEAC U23,HÜBNER Nyíregyháza BS,Ságodi Róbert,X,10,2,3,67,0,0,0,2,4,50,4,7,57,0,0,0,1,0,1,1,2,1,2,5,0,0,14,21,0.0
+x2627,ferfi_nb1b_piros,135757,DEAC U23,HÜBNER Nyíregyháza BS,Várszegi Ádám,X,7,0,2,0,0,0,0,2,8,25,2,10,20,1,2,50,3,2,5,2,0,0,3,1,0,1,9,20,0.0
+x2627,ferfi_nb1b_piros,135757,DEAC U23,HÜBNER Nyíregyháza BS,Gál Csongor,X,16,2,3,67,1,1,100,3,4,75,6,8,75,1,1,100,3,1,4,2,1,0,2,1,0,0,22,19,0.0
+x2627,ferfi_nb1b_piros,135757,DEAC U23,HÜBNER Nyíregyháza BS,Szafkó Márk,,0,0,0,0,0,2,0,0,3,0,0,5,0,0,0,0,3,1,4,1,2,2,1,1,0,0,0,23,0.0
+x2627,ferfi_nb1b_piros,135757,DEAC U23,HÜBNER Nyíregyháza BS,Kiss Tamás,,15,0,0,0,0,0,0,5,5,100,5,5,100,0,0,0,2,1,3,1,1,2,0,1,0,0,19,20,0.0
+x2627,ferfi_nb1b_piros,135757,DEAC U23,HÜBNER Nyíregyháza BS,Vadai Balázs,,9,3,3,100,0,0,0,0,4,0,3,7,43,3,3,100,0,1,1,3,3,3,2,2,0,0,10,19,0.0
+x2627,ferfi_nb1b_piros,135757,DEAC U23,HÜBNER Nyíregyháza BS,Fekete Balázs,,5,1,1,100,0,0,0,1,3,33,2,4,50,0,2,0,1,0,1,1,0,1,1,1,0,0,5,17,0.0
+x2627,ferfi_nb1b_piros,135757,DEAC U23,HÜBNER Nyíregyháza BS,Varga Ferenc,,6,2,4,50,0,0,0,0,2,0,2,6,33,2,4,50,2,0,2,2,0,2,3,4,0,0,11,17,0.0
+x2627,ferfi_nb1b_piros,135757,HÜBNER Nyíregyháza BS,DEAC U23,Hibján Máté,X,3,0,1,0,0,0,0,1,7,14,1,8,13,0,0,0,5,1,6,0,2,4,0,2,0,0,2,28,0.0
+x2627,ferfi_nb1b_piros,135757,HÜBNER Nyíregyháza BS,DEAC U23,Bazsó Brúnó Tamás,X,8,1,2,50,0,2,0,0,2,0,1,6,17,6,8,75,4,0,4,3,3,0,6,4,1,0,16,27,0.0
+x2627,ferfi_nb1b_piros,135757,HÜBNER Nyíregyháza BS,DEAC U23,Orosi Bálint Gábor,X,3,1,3,33,0,0,0,0,1,0,1,4,25,1,2,50,6,1,7,1,4,2,2,1,0,1,6,22,0.0
+x2627,ferfi_nb1b_piros,135757,HÜBNER Nyíregyháza BS,DEAC U23,Kopácsi Ákos,X,2,0,1,0,1,1,100,0,3,0,1,5,20,0,0,0,1,0,1,2,4,4,1,2,0,0,0,22,0.0
+x2627,ferfi_nb1b_piros,135757,HÜBNER Nyíregyháza BS,DEAC U23,Richter Dániel,X,12,1,2,50,0,0,0,3,4,75,4,6,67,1,2,50,3,0,3,2,3,2,1,0,0,0,12,14,0.0
+x2627,ferfi_nb1b_piros,135757,HÜBNER Nyíregyháza BS,DEAC U23,Végső Bálint,,5,0,3,0,1,2,50,1,3,33,2,8,25,0,0,0,1,2,3,0,4,1,3,1,0,0,2,25,0.0
+x2627,ferfi_nb1b_piros,135757,HÜBNER Nyíregyháza BS,DEAC U23,Tóth Patrik Kristóf,,14,5,8,63,1,2,50,0,1,0,6,11,55,2,2,100,2,4,6,0,3,4,1,2,0,0,15,18,0.0
+x2627,ferfi_nb1b_piros,135757,HÜBNER Nyíregyháza BS,DEAC U23,Kristóf Péter Kristóf,,7,2,3,67,0,0,0,1,1,100,3,4,75,0,2,0,2,2,4,1,0,0,1,2,0,0,12,14,0.0
+x2627,ferfi_nb1b_piros,135757,HÜBNER Nyíregyháza BS,DEAC U23,Goór Dániel,,5,1,2,50,0,0,0,1,2,50,2,4,50,0,0,0,1,0,1,2,0,2,1,1,0,0,8,13,0.0
+x2627,ferfi_nb1b_piros,135757,HÜBNER Nyíregyháza BS,DEAC U23,Verebélyi Áron,,3,0,1,0,0,0,0,1,2,50,1,3,33,0,0,0,4,3,7,0,1,1,1,0,1,0,9,13,0.0
+x2627,ferfi_nb1b_piros,135757,HÜBNER Nyíregyháza BS,DEAC U23,Hámornyik Ákos,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,-1,4,0.0
+x2627,ferfi_nb1b_piros,135757,HÜBNER Nyíregyháza BS,DEAC U23,Vajda Dávid Levente,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135751,Insedo Veszprém Kosárlabda Klub,TF-BP,Mészáros Ágoston,X,12,3,4,75,0,1,0,2,6,33,5,11,45,0,0,0,5,3,8,0,0,0,3,0,0,0,17,28,0.0
+x2627,ferfi_nb1b_piros,135751,Insedo Veszprém Kosárlabda Klub,TF-BP,Illés Máté Csongor,X,10,1,4,25,0,2,0,2,4,50,3,10,30,2,2,100,2,1,3,3,2,4,4,4,0,1,15,27,0.0
+x2627,ferfi_nb1b_piros,135751,Insedo Veszprém Kosárlabda Klub,TF-BP,Völgyi Marcell Zoltán,X,0,0,2,0,0,0,0,0,0,0,0,2,0,0,2,0,2,1,3,1,3,4,1,1,0,0,-1,22,0.0
+x2627,ferfi_nb1b_piros,135751,Insedo Veszprém Kosárlabda Klub,TF-BP,Schmera Gergely,X,12,3,3,100,1,1,100,1,1,100,5,5,100,1,2,50,3,0,3,1,0,1,1,0,0,0,16,13,0.0
+x2627,ferfi_nb1b_piros,135751,Insedo Veszprém Kosárlabda Klub,TF-BP,Barba-Bey Ahmed Tyree,X,10,2,2,100,2,4,50,0,2,0,4,8,50,2,3,67,1,1,2,0,3,1,2,1,0,0,7,13,0.0
+x2627,ferfi_nb1b_piros,135751,Insedo Veszprém Kosárlabda Klub,TF-BP,Bonifert Bendegúz,,22,4,4,100,2,2,100,3,5,60,9,11,82,1,2,50,4,1,5,3,2,3,3,2,3,0,33,26,0.0
+x2627,ferfi_nb1b_piros,135751,Insedo Veszprém Kosárlabda Klub,TF-BP,Kass Balázs,,7,3,4,75,0,1,0,0,2,0,3,7,43,1,1,100,4,0,4,2,0,0,3,3,0,0,15,19,0.0
+x2627,ferfi_nb1b_piros,135751,Insedo Veszprém Kosárlabda Klub,TF-BP,Tóth Barna,,11,1,1,100,1,1,100,2,4,50,4,6,67,1,2,50,0,0,0,0,0,2,2,3,0,0,13,18,0.0
+x2627,ferfi_nb1b_piros,135751,Insedo Veszprém Kosárlabda Klub,TF-BP,Kocsis Zalán,,5,1,2,50,0,0,0,1,2,50,2,4,50,0,0,0,2,1,3,0,1,1,0,3,1,0,9,14,0.0
+x2627,ferfi_nb1b_piros,135751,Insedo Veszprém Kosárlabda Klub,TF-BP,Varga Ádám Dániel,,2,1,2,50,0,0,0,0,1,0,1,3,33,0,0,0,0,0,0,1,0,3,0,0,0,0,1,12,0.0
+x2627,ferfi_nb1b_piros,135751,Insedo Veszprém Kosárlabda Klub,TF-BP,Schöll Richárd,,0,0,5,0,0,0,0,0,0,0,0,5,0,0,0,0,3,4,7,0,1,0,0,0,1,2,2,8,0.0
+x2627,ferfi_nb1b_piros,135751,Insedo Veszprém Kosárlabda Klub,TF-BP,Scheff Milán,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135751,TF-BP,Insedo Veszprém Kosárlabda Klub,Swanson Kevin Wade,X,6,1,3,33,2,2,100,0,1,0,3,6,50,0,0,0,5,1,6,0,5,2,1,1,2,0,8,24,0.0
+x2627,ferfi_nb1b_piros,135751,TF-BP,Insedo Veszprém Kosárlabda Klub,Czermann Patrik Ákos,X,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,2,3,5,0,0,1,1,0,0,1,4,21,0.0
+x2627,ferfi_nb1b_piros,135751,TF-BP,Insedo Veszprém Kosárlabda Klub,Molnár Marcell József,X,7,1,1,100,2,5,40,0,2,0,3,8,38,1,2,50,2,0,2,0,4,4,2,2,0,0,3,19,0.0
+x2627,ferfi_nb1b_piros,135751,TF-BP,Insedo Veszprém Kosárlabda Klub,Horváth Botond,X,6,0,0,0,0,1,0,2,3,67,2,4,50,0,0,0,3,1,4,2,2,3,2,1,0,0,11,19,0.0
+x2627,ferfi_nb1b_piros,135751,TF-BP,Insedo Veszprém Kosárlabda Klub,Molnár Dániel,X,3,0,0,0,0,0,0,1,2,50,1,2,50,0,0,0,1,0,1,1,0,2,0,1,0,0,5,16,0.0
+x2627,ferfi_nb1b_piros,135751,TF-BP,Insedo Veszprém Kosárlabda Klub,Antoni Csanád Zoltán,,15,3,4,75,0,2,0,3,5,60,6,11,55,0,0,0,4,1,5,2,0,0,0,1,0,1,18,27,0.0
+x2627,ferfi_nb1b_piros,135751,TF-BP,Insedo Veszprém Kosárlabda Klub,Inalegwu Marcell Sámuel,,14,4,6,67,0,1,0,0,3,0,4,10,40,6,6,100,1,0,1,0,1,4,8,1,0,0,17,21,0.0
+x2627,ferfi_nb1b_piros,135751,TF-BP,Insedo Veszprém Kosárlabda Klub,Boros Márk,,4,1,5,20,0,0,0,0,3,0,1,8,13,2,6,33,3,0,3,0,2,0,4,1,1,2,0,18,0.0
+x2627,ferfi_nb1b_piros,135751,TF-BP,Insedo Veszprém Kosárlabda Klub,Lőrincz Boldizsár Zalán,,3,1,2,50,0,0,0,0,2,0,1,4,25,1,2,50,1,1,2,0,1,1,1,0,0,0,1,14,0.0
+x2627,ferfi_nb1b_piros,135751,TF-BP,Insedo Veszprém Kosárlabda Klub,Fábián Szabolcs,,4,2,3,67,0,0,0,0,0,0,2,3,67,0,0,0,1,2,3,0,1,0,0,1,0,1,6,11,0.0
+x2627,ferfi_nb1b_piros,135751,TF-BP,Insedo Veszprém Kosárlabda Klub,Kovács Áron Boldizsár,,3,0,0,0,0,0,0,1,2,50,1,2,50,0,0,0,0,0,0,0,1,2,0,0,0,0,1,10,0.0
+x2627,ferfi_nb1b_piros,135751,TF-BP,Insedo Veszprém Kosárlabda Klub,Hansági Kristóf Zalán,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135749,Peka Bau-MEAFC Wolves,BKG PRIMA Akadémia,Dunai Zétény Péter,X,14,3,4,75,1,2,50,2,7,29,6,13,46,0,0,0,4,0,4,1,3,2,0,6,0,0,15,34,0.0
+x2627,ferfi_nb1b_piros,135749,Peka Bau-MEAFC Wolves,BKG PRIMA Akadémia,Velkey János,X,15,4,4,100,1,2,50,1,7,14,6,13,46,2,2,100,3,2,5,0,1,2,0,3,0,0,15,34,0.0
+x2627,ferfi_nb1b_piros,135749,Peka Bau-MEAFC Wolves,BKG PRIMA Akadémia,Kékesi Kolos,X,12,4,5,80,0,0,0,1,7,14,5,12,42,1,1,100,3,0,3,4,3,2,2,1,0,0,12,33,0.0
+x2627,ferfi_nb1b_piros,135749,Peka Bau-MEAFC Wolves,BKG PRIMA Akadémia,Ragályi Levente Gergely,X,12,6,8,75,0,0,0,0,0,0,6,8,75,0,0,0,3,8,11,0,1,3,0,0,2,1,22,25,0.0
+x2627,ferfi_nb1b_piros,135749,Peka Bau-MEAFC Wolves,BKG PRIMA Akadémia,Kelemen Ádám,X,9,2,3,67,0,2,0,1,2,50,3,7,43,2,4,50,2,1,3,0,3,0,3,2,0,0,8,17,0.0
+x2627,ferfi_nb1b_piros,135749,Peka Bau-MEAFC Wolves,BKG PRIMA Akadémia,Radics Gerzson,,19,8,12,67,0,0,0,0,2,0,8,14,57,3,4,75,8,3,11,1,1,3,4,4,0,1,31,25,0.0
+x2627,ferfi_nb1b_piros,135749,Peka Bau-MEAFC Wolves,BKG PRIMA Akadémia,Árva-File Balázs,,4,1,1,100,0,0,0,0,1,0,1,2,50,2,2,100,0,1,1,0,2,2,1,0,0,0,3,8,0.0
+x2627,ferfi_nb1b_piros,135749,Peka Bau-MEAFC Wolves,BKG PRIMA Akadémia,Meleg Károly Richárd,,4,1,1,100,0,0,0,0,0,0,1,1,100,2,2,100,2,1,3,0,0,5,1,0,0,0,8,8,0.0
+x2627,ferfi_nb1b_piros,135749,Peka Bau-MEAFC Wolves,BKG PRIMA Akadémia,Molnár Levente,,6,0,0,0,0,0,0,2,3,67,2,3,67,0,0,0,0,0,0,0,0,2,0,1,0,0,6,7,0.0
+x2627,ferfi_nb1b_piros,135749,Peka Bau-MEAFC Wolves,BKG PRIMA Akadémia,Gadus Bogdán Olivér,,2,1,1,100,0,0,0,0,1,0,1,2,50,0,0,0,1,0,1,0,1,1,0,3,0,0,4,6,0.0
+x2627,ferfi_nb1b_piros,135749,Peka Bau-MEAFC Wolves,BKG PRIMA Akadémia,Rozmán Flórián,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0.0
+x2627,ferfi_nb1b_piros,135749,Peka Bau-MEAFC Wolves,BKG PRIMA Akadémia,Vincze Roland,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135749,BKG PRIMA Akadémia,Peka Bau-MEAFC Wolves,Nagy Benedek Ágost,X,26,3,6,50,2,2,100,4,10,40,9,18,50,4,5,80,4,0,4,3,2,2,4,6,0,0,31,40,0.0
+x2627,ferfi_nb1b_piros,135749,BKG PRIMA Akadémia,Peka Bau-MEAFC Wolves,Reiber Dean Thomas,X,29,5,7,71,2,5,40,2,3,67,9,15,60,9,10,90,4,0,4,2,2,0,8,1,1,0,36,38,0.0
+x2627,ferfi_nb1b_piros,135749,BKG PRIMA Akadémia,Peka Bau-MEAFC Wolves,Nagy Botond Ágoston,X,25,2,5,40,3,5,60,4,14,29,9,24,38,3,3,100,1,0,1,2,2,4,5,8,0,2,24,34,0.0
+x2627,ferfi_nb1b_piros,135749,BKG PRIMA Akadémia,Peka Bau-MEAFC Wolves,Csécsei Gergő,X,5,1,1,100,0,1,0,1,1,100,2,3,67,0,2,0,2,0,2,1,0,1,1,0,0,0,6,24,0.0
+x2627,ferfi_nb1b_piros,135749,BKG PRIMA Akadémia,Peka Bau-MEAFC Wolves,Várszegi Balázs,X,2,0,0,0,1,1,100,0,0,0,1,1,100,0,0,0,3,1,4,0,0,1,0,0,0,0,6,11,0.0
+x2627,ferfi_nb1b_piros,135749,BKG PRIMA Akadémia,Peka Bau-MEAFC Wolves,Kovács Leonárd,,2,1,1,100,0,0,0,0,1,0,1,2,50,0,0,0,2,1,3,1,2,0,0,0,0,0,3,15,0.0
+x2627,ferfi_nb1b_piros,135749,BKG PRIMA Akadémia,Peka Bau-MEAFC Wolves,Büki Lóránt,,0,0,1,0,0,0,0,0,1,0,0,2,0,0,0,0,2,1,3,0,1,1,0,0,0,0,0,13,0.0
+x2627,ferfi_nb1b_piros,135749,BKG PRIMA Akadémia,Peka Bau-MEAFC Wolves,Dokmanovic Milán,,2,1,2,50,0,0,0,0,0,0,1,2,50,0,0,0,0,2,2,0,0,1,1,1,0,0,5,12,0.0
+x2627,ferfi_nb1b_piros,135749,BKG PRIMA Akadémia,Peka Bau-MEAFC Wolves,Szanyi Róbert,,0,0,1,0,0,0,0,0,1,0,0,2,0,0,2,0,2,1,3,0,0,3,1,1,0,0,1,11,0.0
+x2627,ferfi_nb1b_piros,135749,BKG PRIMA Akadémia,Peka Bau-MEAFC Wolves,Demeter Levente,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0.0
+x2627,ferfi_nb1b_piros,135749,BKG PRIMA Akadémia,Peka Bau-MEAFC Wolves,Lehoczki Attila,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135755,PVSK-Panthers,ZTE KK,Balogh Szilárd,X,15,3,6,50,1,1,100,1,2,50,5,9,56,4,5,80,4,1,5,1,3,1,5,5,0,1,23,32,0.0
+x2627,ferfi_nb1b_piros,135755,PVSK-Panthers,ZTE KK,Molnár Mátyás,X,9,3,4,75,0,1,0,1,7,14,4,12,33,0,0,0,1,0,1,1,1,5,2,5,0,0,9,30,0.0
+x2627,ferfi_nb1b_piros,135755,PVSK-Panthers,ZTE KK,Dordevic Nemanja,X,18,4,5,80,0,1,0,2,6,33,6,12,50,4,5,80,8,0,8,1,5,3,4,1,0,0,20,27,0.0
+x2627,ferfi_nb1b_piros,135755,PVSK-Panthers,ZTE KK,Csaba György,X,5,2,4,50,0,0,0,0,1,0,2,5,40,1,4,25,1,1,2,0,5,4,3,2,0,1,1,26,0.0
+x2627,ferfi_nb1b_piros,135755,PVSK-Panthers,ZTE KK,Bunos Oleksandr,X,10,2,3,67,0,1,0,1,3,33,3,7,43,3,4,75,2,2,4,0,2,1,2,0,0,0,9,25,0.0
+x2627,ferfi_nb1b_piros,135755,PVSK-Panthers,ZTE KK,Szita Márton Tibor,,3,0,2,0,0,0,0,1,3,33,1,5,20,0,0,0,2,1,3,1,1,1,1,2,0,0,5,15,0.0
+x2627,ferfi_nb1b_piros,135755,PVSK-Panthers,ZTE KK,Czermann Máté,,2,0,0,0,0,0,0,0,2,0,0,2,0,2,4,50,0,0,0,0,0,2,3,1,0,0,2,15,0.0
+x2627,ferfi_nb1b_piros,135755,PVSK-Panthers,ZTE KK,Kertész Dávid,,5,1,2,50,0,0,0,1,2,50,2,4,50,0,2,0,1,0,1,1,0,2,1,1,0,0,5,15,0.0
+x2627,ferfi_nb1b_piros,135755,PVSK-Panthers,ZTE KK,Werner Viktor,,4,2,4,50,0,0,0,0,0,0,2,4,50,0,0,0,6,0,6,1,0,3,0,0,0,0,9,14,0.0
+x2627,ferfi_nb1b_piros,135755,PVSK-Panthers,ZTE KK,Aradi Atilla,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0
+x2627,ferfi_nb1b_piros,135755,PVSK-Panthers,ZTE KK,Galambos Gábor,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135755,PVSK-Panthers,ZTE KK,Bodonyi Barnabás,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135755,ZTE KK,PVSK-Panthers,Pongó Máté,X,13,1,3,33,0,2,0,3,8,38,4,13,31,2,3,67,5,1,6,5,2,3,3,9,0,0,24,36,0.0
+x2627,ferfi_nb1b_piros,135755,ZTE KK,PVSK-Panthers,Gerencsér Botond,X,6,2,2,100,0,0,0,0,2,0,2,4,50,2,2,100,6,1,7,0,1,1,2,0,0,0,12,35,0.0
+x2627,ferfi_nb1b_piros,135755,ZTE KK,PVSK-Panthers,Cardet Jr Wesley Elijah,X,26,7,12,58,0,2,0,3,5,60,10,19,53,3,4,75,5,1,6,2,5,0,4,6,0,0,29,32,0.0
+x2627,ferfi_nb1b_piros,135755,ZTE KK,PVSK-Panthers,Tóth Ádám,X,18,5,8,63,3,3,100,0,0,0,8,11,73,2,4,50,2,1,3,0,1,3,3,0,0,0,18,21,0.0
+x2627,ferfi_nb1b_piros,135755,ZTE KK,PVSK-Panthers,Kis Attila Raul,X,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,0,2,0,0,3,1,1,1,0,4,5,0.0
+x2627,ferfi_nb1b_piros,135755,ZTE KK,PVSK-Panthers,Mokánszki Máté,,5,2,3,67,0,0,0,0,3,0,2,6,33,1,2,50,6,1,7,0,1,2,4,1,1,0,12,24,0.0
+x2627,ferfi_nb1b_piros,135755,ZTE KK,PVSK-Panthers,Kucsora Csaba Ákos,,13,1,1,100,0,0,0,3,7,43,4,8,50,2,2,100,1,0,1,0,0,4,1,0,0,0,11,21,0.0
+x2627,ferfi_nb1b_piros,135755,ZTE KK,PVSK-Panthers,Glatz Gábor Soma,,6,2,5,40,0,0,0,0,2,0,2,7,29,2,2,100,3,4,7,0,1,3,2,2,0,0,11,18,0.0
+x2627,ferfi_nb1b_piros,135755,ZTE KK,PVSK-Panthers,Szalay Domonkos,,5,1,1,100,0,0,0,1,1,100,2,2,100,0,0,0,0,0,0,1,0,2,1,0,0,0,7,8,0.0
+x2627,ferfi_nb1b_piros,135755,ZTE KK,PVSK-Panthers,Ruzsics Barnabás,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135755,ZTE KK,PVSK-Panthers,Török-Papp Benedek,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135759,Vasas Akadémia,Újbuda MAFC,Zöldi Péter András,X,24,4,5,80,1,6,17,3,4,75,8,15,53,5,8,63,6,0,6,2,4,3,7,3,0,0,28,31,0.0
+x2627,ferfi_nb1b_piros,135759,Vasas Akadémia,Újbuda MAFC,Farkas Attila,X,7,1,3,33,0,1,0,1,3,33,2,7,29,2,2,100,0,1,1,1,0,3,0,5,0,0,9,31,0.0
+x2627,ferfi_nb1b_piros,135759,Vasas Akadémia,Újbuda MAFC,Homoki Donát László,X,13,2,7,29,0,2,0,2,3,67,4,12,33,3,4,75,6,0,6,3,0,2,6,1,0,2,20,31,0.0
+x2627,ferfi_nb1b_piros,135759,Vasas Akadémia,Újbuda MAFC,Makkos Dávid,X,7,1,2,50,0,3,0,1,2,50,2,7,29,2,6,33,2,3,5,2,3,2,3,3,0,0,8,29,0.0
+x2627,ferfi_nb1b_piros,135759,Vasas Akadémia,Újbuda MAFC,Gáspár Mátyás,X,8,2,5,40,1,1,100,0,1,0,3,7,43,2,2,100,2,3,5,0,3,4,1,1,0,1,8,22,0.0
+x2627,ferfi_nb1b_piros,135759,Vasas Akadémia,Újbuda MAFC,Erdős Artúr,,17,7,10,70,1,1,100,0,0,0,8,11,73,1,5,20,7,5,12,1,1,2,3,2,0,1,27,18,0.0
+x2627,ferfi_nb1b_piros,135759,Vasas Akadémia,Újbuda MAFC,Plézer Gábor,,0,0,0,0,0,1,0,0,2,0,0,3,0,0,0,0,0,0,0,0,0,3,3,1,0,0,1,16,0.0
+x2627,ferfi_nb1b_piros,135759,Vasas Akadémia,Újbuda MAFC,Pleesz Ádám,,3,1,2,50,0,2,0,0,0,0,1,4,25,1,2,50,0,0,0,0,1,1,1,2,1,0,2,10,0.0
+x2627,ferfi_nb1b_piros,135759,Vasas Akadémia,Újbuda MAFC,Heimann Gergő,,3,0,0,0,0,1,0,1,2,50,1,3,33,0,0,0,1,0,1,0,1,0,0,3,0,0,4,8,0.0
+x2627,ferfi_nb1b_piros,135759,Vasas Akadémia,Újbuda MAFC,Kis Botond,,0,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,1,0,1,0,2,5,0,0,0,0,-3,4,0.0
+x2627,ferfi_nb1b_piros,135759,Vasas Akadémia,Újbuda MAFC,Pichovszky Bertalan,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135759,Vasas Akadémia,Újbuda MAFC,Saincaize Dániel Noel,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135759,Újbuda MAFC,Vasas Akadémia,Bordács Gábor Soma,X,8,4,6,67,0,0,0,0,0,0,4,6,67,0,0,0,12,4,16,1,0,2,2,1,2,0,28,30,0.0
+x2627,ferfi_nb1b_piros,135759,Újbuda MAFC,Vasas Akadémia,Molnár Tamás,X,12,2,5,40,0,1,0,1,3,33,3,9,33,5,8,63,0,1,1,2,1,3,4,0,0,1,9,27,0.0
+x2627,ferfi_nb1b_piros,135759,Újbuda MAFC,Vasas Akadémia,Pápai Máté Barnabás,X,10,4,6,67,0,0,0,0,0,0,4,6,67,2,2,100,8,0,8,0,0,5,1,0,2,0,19,27,0.0
+x2627,ferfi_nb1b_piros,135759,Újbuda MAFC,Vasas Akadémia,Polgárdy Ádám,X,17,4,5,80,1,2,50,1,5,20,6,12,50,4,5,80,2,0,2,1,4,0,3,0,0,0,12,19,0.0
+x2627,ferfi_nb1b_piros,135759,Újbuda MAFC,Vasas Akadémia,Geiger Bálint József,X,1,0,1,0,0,1,0,0,2,0,0,4,0,1,2,50,0,1,1,0,2,3,1,1,0,0,-3,16,0.0
+x2627,ferfi_nb1b_piros,135759,Újbuda MAFC,Vasas Akadémia,Kovács Levente Hetény,,16,2,4,50,0,0,0,1,4,25,3,8,38,9,10,90,4,1,5,1,3,3,5,9,0,0,27,24,0.0
+x2627,ferfi_nb1b_piros,135759,Újbuda MAFC,Vasas Akadémia,Pintér Dávid,,13,0,0,0,0,1,0,4,8,50,4,9,44,1,2,50,0,0,0,0,2,2,2,0,0,0,7,19,0.0
+x2627,ferfi_nb1b_piros,135759,Újbuda MAFC,Vasas Akadémia,Dávid Benjámin,,13,3,4,75,0,0,0,2,4,50,5,8,63,1,3,33,1,0,1,0,0,3,6,2,0,0,17,18,0.0
+x2627,ferfi_nb1b_piros,135759,Újbuda MAFC,Vasas Akadémia,Balázs Barnabás,,2,0,2,0,1,1,100,0,0,0,1,3,33,0,0,0,5,1,6,0,1,1,0,1,0,0,6,13,0.0
+x2627,ferfi_nb1b_piros,135759,Újbuda MAFC,Vasas Akadémia,Viola Dávid Zsolt,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,50,1,0,1,0,0,1,1,0,0,0,2,5,0.0
+x2627,ferfi_nb1b_piros,135759,Újbuda MAFC,Vasas Akadémia,Orbán Imre,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0.0
+x2627,ferfi_nb1b_piros,135759,Újbuda MAFC,Vasas Akadémia,Solomon Márk,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135771,ZTE KK,Vasas Akadémia,Pongó Máté,X,11,4,4,100,0,0,0,1,4,25,5,8,63,0,0,0,3,0,3,5,0,4,3,7,0,0,26,35,0.0
+x2627,ferfi_nb1b_piros,135771,ZTE KK,Vasas Akadémia,Cardet Jr Wesley Elijah,X,22,5,8,63,0,1,0,2,6,33,7,15,47,6,7,86,5,1,6,1,1,0,7,6,0,0,32,32,0.0
+x2627,ferfi_nb1b_piros,135771,ZTE KK,Vasas Akadémia,Gerencsér Botond,X,9,2,2,100,0,0,0,1,3,33,3,5,60,2,2,100,3,1,4,1,1,4,1,2,0,0,14,30,0.0
+x2627,ferfi_nb1b_piros,135771,ZTE KK,Vasas Akadémia,Kis Attila Raul,X,12,0,1,0,0,2,0,4,5,80,4,8,50,0,0,0,1,0,1,2,0,0,0,3,0,0,14,19,0.0
+x2627,ferfi_nb1b_piros,135771,ZTE KK,Vasas Akadémia,Tóth Ádám,X,11,5,5,100,0,1,0,0,0,0,5,6,83,1,2,50,2,0,2,2,1,4,1,2,0,0,15,14,0.0
+x2627,ferfi_nb1b_piros,135771,ZTE KK,Vasas Akadémia,Mokánszki Máté,,11,3,3,100,0,1,0,1,5,20,4,9,44,2,2,100,3,2,5,1,0,2,2,0,0,0,14,26,0.0
+x2627,ferfi_nb1b_piros,135771,ZTE KK,Vasas Akadémia,Kucsora Csaba Ákos,,10,1,1,100,1,1,100,2,6,33,4,8,50,0,0,0,2,1,3,0,1,1,0,1,1,0,10,17,0.0
+x2627,ferfi_nb1b_piros,135771,ZTE KK,Vasas Akadémia,Glatz Gábor Soma,,6,1,1,100,0,2,0,1,1,100,2,4,50,1,2,50,2,1,3,0,1,1,1,5,0,0,11,17,0.0
+x2627,ferfi_nb1b_piros,135771,ZTE KK,Vasas Akadémia,Török-Papp Benedek,,3,0,1,0,0,0,0,1,2,50,1,3,33,0,0,0,0,2,2,0,0,0,2,1,0,0,6,10,0.0
+x2627,ferfi_nb1b_piros,135771,ZTE KK,Vasas Akadémia,Ruzsics Barnabás,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135771,ZTE KK,Vasas Akadémia,Szalay Domonkos,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135771,ZTE KK,Vasas Akadémia,Garai Dávid Gábor,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135771,Vasas Akadémia,ZTE KK,Plézer Gábor,X,18,3,6,50,1,2,50,2,6,33,6,14,43,4,5,80,3,1,4,1,5,2,8,3,0,0,20,32,0.0
+x2627,ferfi_nb1b_piros,135771,Vasas Akadémia,ZTE KK,Homoki Donát László,X,21,2,3,67,0,1,0,5,7,71,7,11,64,2,2,100,3,0,3,0,0,0,1,0,0,0,21,28,0.0
+x2627,ferfi_nb1b_piros,135771,Vasas Akadémia,ZTE KK,Zöldi Péter András,X,11,3,3,100,0,1,0,1,2,50,4,6,67,2,2,100,5,0,5,3,4,2,4,2,0,0,19,26,0.0
+x2627,ferfi_nb1b_piros,135771,Vasas Akadémia,ZTE KK,Gáspár Mátyás,X,12,6,10,60,0,1,0,0,0,0,6,11,55,0,0,0,6,3,9,0,0,4,0,1,0,1,17,25,0.0
+x2627,ferfi_nb1b_piros,135771,Vasas Akadémia,ZTE KK,Pleesz Ádám,X,6,2,2,100,1,1,100,0,1,0,3,4,75,0,0,0,0,1,1,0,0,2,0,0,0,0,6,15,0.0
+x2627,ferfi_nb1b_piros,135771,Vasas Akadémia,ZTE KK,Farkas Attila,,5,0,1,0,0,1,0,1,4,25,1,6,17,2,2,100,0,2,2,1,3,1,1,3,0,0,4,25,0.0
+x2627,ferfi_nb1b_piros,135771,Vasas Akadémia,ZTE KK,Makkos Dávid,,4,1,3,33,0,1,0,0,0,0,1,4,25,2,2,100,2,0,2,0,3,2,1,2,0,0,3,18,0.0
+x2627,ferfi_nb1b_piros,135771,Vasas Akadémia,ZTE KK,Heimann Gergő,,0,0,0,0,0,2,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,2,0,2,0,0,-1,16,0.0
+x2627,ferfi_nb1b_piros,135771,Vasas Akadémia,ZTE KK,Erdős Artúr,,4,2,3,67,0,0,0,0,0,0,2,3,67,0,0,0,5,1,6,0,2,2,1,0,0,0,8,15,0.0
+x2627,ferfi_nb1b_piros,135771,Vasas Akadémia,ZTE KK,Saincaize Dániel Noel,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135771,Vasas Akadémia,ZTE KK,Kis Botond,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135769,Tiszaújvárosi Termálfürdő Phoenix KK,DEAC U23,Ervin Carlbe Lee,X,6,0,2,0,0,1,0,1,8,13,1,11,9,3,4,75,8,1,9,1,1,3,4,5,1,1,14,34,0.0
+x2627,ferfi_nb1b_piros,135769,Tiszaújvárosi Termálfürdő Phoenix KK,DEAC U23,Polster Attila,X,16,2,2,100,0,1,0,4,13,31,6,16,38,0,0,0,3,0,3,0,1,2,1,4,0,1,13,33,0.0
+x2627,ferfi_nb1b_piros,135769,Tiszaújvárosi Termálfürdő Phoenix KK,DEAC U23,Lucey Ciarán József,X,5,2,4,50,0,0,0,0,2,0,2,6,33,1,5,20,6,1,7,0,1,3,5,7,0,0,15,33,0.0
+x2627,ferfi_nb1b_piros,135769,Tiszaújvárosi Termálfürdő Phoenix KK,DEAC U23,Ormai Botond Gábor,X,7,3,4,75,0,0,0,0,0,0,3,4,75,1,2,50,8,3,11,1,3,2,1,3,1,0,19,25,0.0
+x2627,ferfi_nb1b_piros,135769,Tiszaújvárosi Termálfürdő Phoenix KK,DEAC U23,Mester Márk,X,8,0,0,0,0,0,0,2,9,22,2,9,22,2,2,100,4,2,6,0,1,2,2,1,0,0,9,23,0.0
+x2627,ferfi_nb1b_piros,135769,Tiszaújvárosi Termálfürdő Phoenix KK,DEAC U23,Szabadfi Márk,,22,2,3,67,2,3,67,3,5,60,7,11,64,5,7,71,3,1,4,0,0,3,5,2,0,0,27,31,0.0
+x2627,ferfi_nb1b_piros,135769,Tiszaújvárosi Termálfürdő Phoenix KK,DEAC U23,Gerőcs Roland Bálint,,21,6,9,67,1,1,100,2,4,50,9,14,64,1,2,50,2,2,4,0,2,4,1,2,2,0,22,20,0.0
+x2627,ferfi_nb1b_piros,135769,Tiszaújvárosi Termálfürdő Phoenix KK,DEAC U23,Mayer Ákos,,5,1,2,50,0,0,0,1,1,100,2,3,67,0,0,0,1,1,2,0,1,4,0,3,0,0,8,14,0.0
+x2627,ferfi_nb1b_piros,135769,Tiszaújvárosi Termálfürdő Phoenix KK,DEAC U23,Pap Levente,,2,1,2,50,0,0,0,0,1,0,1,3,33,0,0,0,1,0,1,0,0,0,0,1,0,0,2,12,0.0
+x2627,ferfi_nb1b_piros,135769,Tiszaújvárosi Termálfürdő Phoenix KK,DEAC U23,Kovács Zoltán,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135769,Tiszaújvárosi Termálfürdő Phoenix KK,DEAC U23,Ferenczi Lajos,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135769,Tiszaújvárosi Termálfürdő Phoenix KK,DEAC U23,Sebők András,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+x2627,ferfi_nb1b_piros,135769,DEAC U23,Tiszaújvárosi Termálfürdő Phoenix KK,Bankó Zoltán Martin,X,11,4,6,67,0,1,0,0,5,0,4,12,33,3,4,75,16,3,19,0,3,5,7,1,0,1,26,38,0.0
+x2627,ferfi_nb1b_piros,135769,DEAC U23,Tiszaújvárosi Termálfürdő Phoenix KK,Ságodi Róbert,X,21,6,10,60,0,2,0,2,13,15,8,25,32,3,4,75,5,2,7,3,1,2,3,7,0,0,22,34,0.0
+x2627,ferfi_nb1b_piros,135769,DEAC U23,Tiszaújvárosi Termálfürdő Phoenix KK,Szafkó Márk,X,10,2,3,67,0,1,0,1,4,25,3,8,38,3,4,75,0,4,4,1,0,2,3,0,0,0,12,31,0.0
+x2627,ferfi_nb1b_piros,135769,DEAC U23,Tiszaújvárosi Termálfürdő Phoenix KK,Vadai Balázs,X,10,3,5,60,0,1,0,1,1,100,4,7,57,1,1,100,4,3,7,0,0,3,1,2,0,1,17,29,0.0
+x2627,ferfi_nb1b_piros,135769,DEAC U23,Tiszaújvárosi Termálfürdő Phoenix KK,Várszegi Ádám,X,5,0,2,0,0,2,0,1,3,33,1,7,14,2,2,100,5,0,5,2,2,2,3,1,0,0,8,29,0.0
+x2627,ferfi_nb1b_piros,135769,DEAC U23,Tiszaújvárosi Termálfürdő Phoenix KK,Kiss Tamás,,19,7,12,58,0,1,0,0,6,0,7,19,37,5,6,83,2,2,4,1,0,1,5,4,0,2,20,27,0.0
+x2627,ferfi_nb1b_piros,135769,DEAC U23,Tiszaújvárosi Termálfürdő Phoenix KK,Székely Bence,,9,0,0,0,0,0,0,3,7,43,3,7,43,0,0,0,0,1,1,0,0,1,0,0,0,0,6,22,0.0
+x2627,ferfi_nb1b_piros,135769,DEAC U23,Tiszaújvárosi Termálfürdő Phoenix KK,Fárbás Benjámin,,4,0,0,0,0,0,0,1,3,33,1,3,33,1,1,100,2,1,3,0,0,3,1,0,1,0,7,11,0.0
+x2627,ferfi_nb1b_piros,135769,DEAC U23,Tiszaújvárosi Termálfürdő Phoenix KK,Fekete Balázs,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0
+x2627,ferfi_nb1b_piros,135769,DEAC U23,Tiszaújvárosi Termálfürdő Phoenix KK,Bősz Olivér,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,2,0.0

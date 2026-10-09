@@ -4,7 +4,9 @@
     python src/mkosz_scrapper.py                                       # az 26/27 szezon NB I/B piros csoportja - default
     python src/mkosz_scrapper.py --season x2526 x2627 --league hun     # két szezon, csak NB I/A
 
-Kimenet: data/matches_nb1A.csv (meccsenként egy sor), data/player_stats.csv (játékosonként és meccsenként egy sor).
+Kimenet szezononként és bajnokságonként külön fájlban:
+data/matches_<szezon>_<kod>.csv (meccsenként egy sor),
+data/player_stats_<szezon>_<kod>.csv (játékosonként és meccsenként egy sor)
 """
 import argparse  
 import io
@@ -31,7 +33,7 @@ LEAGUES = {                                                     # Ligák kódjai
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (egyetemi beadando; adatgyujtes oktatasi celra)"} 
 
-MATCH_RE = re.compile(r"/merkozes/[^/]+/[^/]+/[a-z0-9]+_(\d+)")            # Meccs URL: /merkozes/nb1a/2023-2024/nb1a_12345
+MATCH_RE = re.compile(r"/merkozes/[^/]+/[^/]+/[a-z0-9]+_(\d+)")         # Meccs URL: /merkozes/x2627/hun/hun_134753
 SCORE_RE = re.compile(r"(\d+)\s*-\s*(\d+)")                             # Hazai és vendég pontszám: 78 - 65
 DATE_RE = re.compile(r"\d{4}\.\s*\w+\s*\d{1,2}\.")                      # Dátum: 2024. szeptember 15.
 TIME_RE = re.compile(r"^\d{1,2}:\d{2}$")                                # Kezdés időpontja: 18:30
@@ -144,7 +146,7 @@ def parse_box_scores(html: str) -> list[pd.DataFrame]:
         boxes.append(t)
     return boxes
 
-def scrape_match(session, match: dict, args, html_dir: Path) -> list[pd.DataFrame]:  # ÚJ
+def scrape_match(session, match: dict, args, html_dir: Path) -> list[pd.DataFrame]:
     """Letölti egy meccs oldalát, kinyeri a játékosstatisztikát és visszaadja a hazai és vendég csapat statisztikáját DataFrame-ként."""
     html = fetch(session, match["url"])
     if args.save_html:
@@ -165,8 +167,23 @@ def scrape_match(session, match: dict, args, html_dir: Path) -> list[pd.DataFram
     return result
 
 
-def scrape_league(session, szezon: str, kod: str, args, html_dir: Path) -> tuple[list[dict], list[pd.DataFrame]]:  # ÚJ
-    """Letölti egy szezon és liga meccseinek listáját és minden meccshez letölti a játékosstatisztikát"""
+def save_csv(matches: list[dict], stats: list[pd.DataFrame], szezon: str, kod: str) -> None:
+    """Egy szezon egy bajnokságának mentése két külön CSV-be, a szezon- és bajnokságkóddal a fájlnévben."""
+    DATA_DIR.mkdir(exist_ok=True)
+    matches_path = DATA_DIR / f"matches_{szezon}_{kod}.csv"
+    pd.DataFrame(matches).to_csv(matches_path, index=False)
+    print(f"  -> {matches_path.name}: {len(matches)} meccs")
+    if stats:
+        stats_path = DATA_DIR / f"player_stats_{szezon}_{kod}.csv"
+        player_stats = pd.concat(stats, ignore_index=True)
+        player_stats.to_csv(stats_path, index=False)
+        print(f"  -> {stats_path.name}: {len(player_stats)} játékossor")
+    else:
+        print("  ! Nem találtam statisztika-táblázatot. Futtasd --save-html kapcsolóval, és nézd meg a data/html mappát.")
+
+
+def scrape_league(session, szezon: str, kod: str, args, html_dir: Path) -> None:
+    """Egy szezon egy bajnokságának letöltése és mentése  csv-be"""
     nev = LEAGUES[kod]
     schedule_html = fetch(session, BASE_URL.format(szezon=szezon, kod=kod))
     if args.save_html:
@@ -184,7 +201,8 @@ def scrape_league(session, szezon: str, kod: str, args, html_dir: Path) -> tuple
         time.sleep(args.delay)
         stats.extend(scrape_match(session, match, args, html_dir))
         print(f"[{i}/{len(matches)}] {match['hazai']} - {match['vendeg']} {match['hazai_pont']}-{match['vendeg_pont']}")
-    return matches, stats
+
+    save_csv(matches, stats, szezon, kod)
 
 
 def main():
@@ -201,7 +219,6 @@ def main():
         html_dir.mkdir(parents=True, exist_ok=True)
 
     session = requests.Session()
-    all_matches, all_stats = [], [] 
     for szezon in args.season:
         for kod in args.league:
             scrape_league(session, szezon, kod, args, html_dir)
